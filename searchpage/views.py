@@ -34,6 +34,8 @@ def get_prior(text):
 
 
 def search(request):
+    if(not request.GET['query']):
+        return redirect('')
     query = request.GET['query']
     # f_query = ""
     # for i in query.split():
@@ -52,7 +54,7 @@ def search(request):
         csvfiles = doc.search("csv")
         dic = {}
 
-        with open(WORDS_DATA_LOCATION+"/total", 'r') as w:
+        with open(WORDS_DATA_LOCATION+"/total", 'r', encoding="utf8") as w:
             words_count = int(w.readline())
 
         for csvData in csvfiles:
@@ -69,13 +71,14 @@ def search(request):
         finalres = []
         for i in sorted(dic.keys(), reverse=True):
             for j in dic[i]:
-                print(j)
-                with open(j.replace("words_data", "scrap_data").replace(".csv", "")) as final:
+                # print(j)
+                with open(j.replace("words_data", "scrap_data",).replace(".csv", ""),encoding="utf8") as final:
                     loc = final.readline()
-                finalres.append([loc, i])
+                    loc = loc.rstrip('\n').split('/')[-1]
+                finalres.append([loc, i*10000])
 
         print(finalres)
-        data = {'title': 'search', 'result': finalres}
+        data = {'title': 'search', 'results': finalres}
         return render(request, 'searchpage/searchresult.html', data)
     else:
         return False
