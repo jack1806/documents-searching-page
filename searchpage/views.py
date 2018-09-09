@@ -1,6 +1,7 @@
 from django.shortcuts import render,redirect
 # from django.views.decorators.http import require_POST
 # from .models import *
+import time
 from django.conf import settings
 import os
 # from .forms import todoform
@@ -34,9 +35,12 @@ def get_prior(text):
 
 
 def search(request):
-    if(not request.GET['query']):
+    if not request.GET['query']:
         return redirect('')
     query = request.GET['query']
+
+    start_time = time.time()
+
     # f_query = ""
     # for i in query.split():
     #     f_query += spell(i)+" "
@@ -68,24 +72,27 @@ def search(request):
                 else:
                     dic[score] = [csvData]
 
+        end_time = time.time()
+        total_time_taken = end_time - start_time
+
         finalres = []
         for i in sorted(dic.keys(), reverse=True):
             for j in dic[i]:
                 # print(j)
-                with open(j.replace("words_data", "scrap_data",).replace(".csv", ""),encoding="utf8") as final:
+                with open(j.replace("words_data", "scrap_data",).replace(".csv", ""), encoding="utf8") as final:
                     loc = final.readline()
                     loc = loc.rstrip('\n').split('/')[-1]
                 finalres.append([loc, i*10000])
 
         print(finalres)
-        data = {'title': 'search', 'results': finalres}
+        data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken}
         return render(request, 'searchpage/searchresult.html', data)
     else:
         return False
 
 
 def proxy_dist(a, b):
-    return float(1)/(abs(a**2-b**2))
+    return float(1)/(abs(a-b)**2)
 
 
 def main_search(m_words, m_data, w_count, prior):
