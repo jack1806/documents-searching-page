@@ -1,4 +1,5 @@
 from django.shortcuts import render,redirect
+from django.http import HttpResponse
 # from django.views.decorators.http import require_POST
 # from .models import *
 import time
@@ -7,7 +8,7 @@ import os
 # from .forms import todoform
 import nltk
 import csv
-# from autocorrect import spell
+from autocorrect import spell
 from .DocumentSearch import DocumentSearch
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -41,10 +42,10 @@ def search(request):
 
     start_time = time.time()
 
-    # f_query = ""
-    # for i in query.split():
-    #     f_query += spell(i)+" "
-    # query = f_query
+    f_query = ""
+    for i in query.split():
+        f_query += spell(i)+" "
+    query = f_query
     punctuations = ['(', ')', ';', ':', '[', ']', ',', '.', "'s", '-']
     stop_words = stopwords.words('english')
     tokens = word_tokenize(query, 'english')
@@ -88,10 +89,10 @@ def search(request):
                         finalres.append(loc)
 
         print(finalres)
-        data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken, 'lengthofres': len(finalres)}
+        data = {'query': query,'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken, 'lengthofres': len(finalres),'error': not len(finalres)}
         return render(request, 'searchpage/searchresult.html', data)
     else:
-        return False
+        return render(request, 'searchpage/searchresult.html', {'title': 'search','error':1,'total_time_taken': '0.00', 'lengthofres': 0,'query': query})
 
 
 def proxy_dist(a, b):
@@ -118,3 +119,9 @@ def main_search(m_words, m_data, w_count, prior):
     elif m_words[0] in m_data[0]:
         m_score += float(m_data[m_data[0].index(m_words[0])+1][1])/w_count
     return m_score
+
+def rank(request):
+    clickednum = request.GET['clickedfile']
+    return HttpResponse(clickednum)
+
+
