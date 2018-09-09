@@ -1,328 +1,192 @@
---,1,102,193,194,195,196,197,198,199,1st,2,200,201,203,204,3,4,40,68,73,76,81,82,_and_,_embroi,_embroidered,_embroidery,_pattern,_to_,_toile,_two,_what,_work,according,aces,al,also,another,applique,articles,b,bag,bag_,bamboo,bands,berlin,black,border,bordered,borders,bottom,br,braces,braces_,braid,branched,branches,bright,brocade,brown,button,c,calico,cambric,canes,canvas,cardboard,case,centre,chain,chenille,chosen,ciree_,clasp,cloth,co.,co.'s,collar,collars_,colour,coloured,colours,common,completed,completes,composed,consists,contrast,cord,cotton,course,covered,crochet,cross,cut,d'or,dark,darkest,dered,design,desired,desk,desk_,diamonds,different,divided,dots,double,drab,e,easy,ed,edge,edged,edges,effect,effective,either,elegant,embroidered,embroidery,embroidery_,employed,ends,entirely,ese,etween,evans,every,f,fasten,fastened,figures,filoselle,fine,finished,first,floss,follow,following,form,forms,found,four,french,full,gold,good,graceful,grass,green,grounded,ha,half,hammock,handkerchief,handkerchief_,hole,holes,ilk,illustration,increased,inside,instructions_,intended,intermediate,java,jewel,k,knotted,ladder,largest,latter,lawn,leather,leaves,light,lightly,like,likewise,line,lined,linen,lining,lk,loose,loth,made,marking,material,materials,may,mbroidery,meant,medallion,medallions,messrs.,middle,might,missing,mounting,mourning,mus,must,ndkerchief,next,nos,not_,nstructions_,ntirely,one,ornament,ornamented,outside,overcast,ow,ows,paper,part,partly,pattern,patterns,piece,pieces,pique,place,plaid,plain,point,pointed,produce,purl,purse,quilted,r,raised,rather,reading,red,rep,repeat,rest,ribbed,ribs,rolled,round,row,russe,russia,satin,scarlet,sea,seams,see,seen,selected,sew,sewed,sewn,shade,shades,shape,shows,si,side,sides,sil,silk,silver,simple,size,skein,slightly,small,spot,spots,sprays,stand,steel,stems,stitch,stitches,strap,straps,strips,table,tabs,tacked,taken,tape,tassels,taste,tent,ternate,th,third,thread,three,toilet,top,traced,trimmed,two,ull,upon,vandyke,vandykes,variety,various,velvet,violet,violets,wadded,wadding,walter,way,wear,well,white,whole,wool,work,worked,working,yell,yellow
---,19,"[3, 69, 75, 81, 114, 209, 305, 312, 340, 346, 390, 422, 548, 561, 637, 684, 719, 725, 814]"
-1,6,"[103, 640, 642, 646, 650, 658]"
-102,1,[683]
-193,2,"[0, 46]"
-194,3,"[2, 23, 68]"
-195,3,"[74, 78, 127]"
-196,3,"[80, 113, 131]"
-197,2,"[208, 304]"
-198,3,"[309, 339, 352]"
-199,3,"[311, 345, 373]"
-1st,1,[652]
-2,1,[711]
-200,2,"[389, 421]"
-201,3,"[545, 560, 592]"
-203,3,"[547, 679, 718]"
-204,2,"[724, 813]"
-3,3,"[87, 648, 714]"
-4,1,[93]
-40,3,"[17, 223, 285]"
-68,1,[64]
-73,2,"[35, 62]"
-76,2,"[34, 61]"
-81,2,"[32, 63]"
-82,2,"[33, 60]"
-_and_,3,"[1, 79, 310]"
-_embroi,1,[4]
-_embroidered,1,[210]
-_embroidery,3,"[36, 65, 726]"
-_pattern,1,[549]
-_to_,1,[546]
-_toile,1,[250]
-_two,1,[313]
-_what,1,[82]
-_work,1,[391]
-according,1,[500]
-aces,1,[687]
-al,1,[382]
-also,2,"[783, 791]"
-another,1,[681]
-applique,4,"[436, 475, 529, 764]"
-articles,1,[337]
-b,3,"[227, 282, 623]"
-bag,5,"[424, 426, 439, 518, 533]"
-bag_,1,[392]
-bamboo,1,[198]
-bands,1,[615]
-berlin,2,"[157, 695]"
-black,10,"[44, 295, 322, 354, 388, 554, 576, 734, 756, 765]"
-border,6,"[308, 705, 727, 782, 799, 816]"
-bordered,1,[510]
-borders,1,[229]
-bottom,1,[618]
-br,1,[686]
-braces,7,"[563, 568, 596, 603, 622, 690, 721]"
-braces_,1,[550]
-braid,4,"[410, 450, 743, 778]"
-branched,1,[359]
-branches,2,"[259, 384]"
-bright,1,[269]
-brocade,2,"[740, 771]"
-brown,1,[319]
-button,12,"[25, 51, 485, 584, 608, 629, 643, 655, 661, 671, 674, 708]"
-c,1,[463]
-calico,3,"[558, 573, 605]"
-cambric,4,"[216, 234, 245, 290]"
-canes,1,[199]
-canvas,6,"[86, 141, 183, 553, 571, 626]"
-cardboard,4,"[180, 413, 504, 521]"
-case,1,[809]
-centre,5,"[154, 480, 760, 787, 811]"
-chain,3,"[495, 649, 715]"
-chenille,2,"[109, 195]"
-chosen,1,[499]
-ciree_,1,[251]
-clasp,1,[328]
-cloth,8,"[395, 398, 434, 469, 474, 507, 737, 759]"
-co.,1,[14]
-co.'s,1,[220]
-collar,1,[72]
-collars_,1,[7]
-colour,1,[381]
-coloured,2,"[418, 473]"
-colours,3,"[400, 404, 497]"
-common,1,[699]
-completed,1,[130]
-completes,1,[453]
-composed,2,"[175, 197]"
-consists,1,[432]
-contrast,1,[789]
-cord,6,"[110, 205, 412, 538, 745, 780]"
-cotton,9,"[16, 41, 50, 222, 272, 280, 300, 414, 678]"
-course,1,[801]
-covered,3,"[181, 448, 535]"
-crochet,3,"[587, 611, 632]"
-cross,2,"[614, 700]"
-cut,5,"[179, 455, 459, 502, 520]"
-d'or,1,[39]
-dark,1,[761]
-darkest,1,[806]
-dered,1,[5]
-design,1,[237]
-desired,1,[803]
-desk,1,[818]
-desk_,1,[729]
-diamonds,1,[446]
-different,3,"[399, 403, 477]"
-divided,1,[713]
-dots,3,"[255, 266, 301]"
-double,6,"[9, 22, 641, 651, 659, 712]"
-drab,4,"[394, 433, 462, 506]"
-e,3,"[283, 488, 793]"
-easy,1,[240]
-ed,1,[541]
-edge,1,[508]
-edged,3,"[191, 580, 628]"
-edges,1,[613]
-effect,1,[277]
-effective,2,"[239, 287]"
-either,4,"[232, 273, 288, 581]"
-elegant,1,[121]
-embroidered,7,"[70, 182, 294, 379, 595, 685, 748]"
-embroidery,14,"[15, 134, 221, 224, 343, 349, 401, 437, 476, 530, 575, 602, 772, 815]"
-embroidery_,1,[316]
-employed,1,[335]
-ends,1,[517]
-entirely,2,"[48, 375]"
-ese,1,[567]
-etween,2,"[228, 624]"
-evans,2,"[13, 219]"
-every,1,[707]
-f,1,[597]
-fasten,2,"[505, 540]"
-fastened,1,[201]
-figures,1,[478]
-filoselle,2,"[296, 302]"
-fine,5,"[85, 140, 243, 279, 691]"
-finished,1,[206]
-first,2,"[257, 601]"
-floss,5,"[90, 96, 101, 106, 143]"
-follow,1,[636]
-following,1,[660]
-form,1,[810]
-forms,1,[465]
-found,1,[286]
-four,1,[365]
-french,3,"[215, 233, 244]"
-full,4,"[116, 136, 564, 722]"
-gold,10,"[324, 327, 364, 370, 386, 738, 741, 753, 769, 776]"
-good,2,"[276, 456]"
-graceful,1,[258]
-grass,2,"[213, 235]"
-green,9,"[95, 99, 108, 161, 165, 172, 188, 194, 202]"
-grounded,1,[168]
-ha,1,[306]
-half,1,[133]
-hammock,4,"[77, 129, 174, 200]"
-handkerchief,2,"[230, 246]"
-handkerchief_,1,[211]
-hole,11,"[26, 52, 486, 585, 609, 630, 644, 656, 662, 672, 709]"
-holes,1,[675]
-ilk,1,[744]
-illustration,13,"[67, 73, 112, 303, 338, 344, 420, 544, 559, 591, 682, 717, 812]"
-increased,1,[802]
-inside,2,"[190, 522]"
-instructions_,1,[37]
-intended,2,"[330, 788]"
-intermediate,1,[368]
-java,2,"[552, 570]"
-jewel,1,[119]
-k,2,"[92, 204]"
-knotted,2,"[28, 54]"
-ladder,1,[55]
-largest,1,[366]
-latter,1,[627]
-lawn,3,"[214, 236, 289]"
-leather,3,"[321, 419, 451]"
-leaves,3,"[155, 261, 297]"
-light,3,"[164, 318, 417]"
-lightly,1,[247]
-like,1,[531]
-likewise,1,[519]
-line,1,[604]
-lined,4,"[185, 442, 524, 572]"
-linen,4,"[6, 10, 20, 71]"
-lining,2,"[514, 625]"
-lk,2,"[356, 409]"
-loose,2,"[583, 607]"
-loth,1,[464]
-made,3,"[427, 569, 666]"
-marking,1,[271]
-material,2,"[781, 786]"
-materials,7,"[8, 84, 212, 317, 393, 551, 730]"
-may,5,"[231, 334, 378, 498, 800]"
-mbroidery,1,[489]
-meant,1,[122]
-medallion,3,"[341, 347, 372]"
-medallions,2,"[314, 329]"
-messrs.,2,"[11, 217]"
-middle,1,[492]
-might,1,[267]
-missing,1,[653]
-mounting,1,[196]
-mourning,1,[291]
-mus,1,[515]
-must,3,"[281, 509, 808]"
-ndkerchief,1,[307]
-next,1,[654]
-nos,2,"[31, 59]"
-not_,1,[83]
-nstructions_,1,[66]
-ntirely,1,[794]
-one,3,"[132, 380, 638]"
-ornament,1,[331]
-ornamented,1,[574]
-outside,4,"[184, 431, 466, 527]"
-overcast,2,"[56, 163]"
-ow,1,[152]
-ows,1,[253]
-paper,1,[458]
-part,1,[594]
-partly,2,"[481, 484]"
-pattern,14,"[115, 135, 167, 225, 293, 457, 468, 503, 562, 698, 720, 747, 790, 805]"
-patterns,3,"[18, 274, 762]"
-piece,1,[178]
-pieces,2,"[397, 472]"
-pique,2,"[693, 703]"
-place,1,[123]
-plaid,1,[430]
-plain,2,"[187, 264]"
-point,5,"[38, 42, 361, 376, 482]"
-pointed,1,[260]
-produce,1,[275]
-purl,1,[647]
-purse,4,"[315, 333, 342, 348]"
-quilted,2,"[186, 445]"
-r,1,[252]
-raised,3,"[148, 254, 350]"
-rather,1,[278]
-reading,2,"[728, 817]"
-red,13,"[270, 407, 411, 443, 449, 511, 525, 536, 556, 578, 589, 670, 677]"
-rep,4,"[733, 736, 751, 758]"
-repeat,1,[664]
-rest,1,[532]
-ribbed,1,[692]
-ribs,1,[702]
-rolled,1,[429]
-round,3,"[192, 265, 669]"
-row,1,[639]
-russe,4,"[43, 362, 377, 483]"
-russia,1,[320]
-satin,12,"[27, 53, 262, 357, 406, 444, 460, 512, 513, 526, 774, 796]"
-scarlet,6,"[323, 363, 367, 385, 387, 405]"
-sea,2,"[98, 171]"
-seams,2,"[447, 534]"
-see,2,"[30, 58]"
-seen,1,[543]
-selected,1,[284]
-sew,1,[620]
-sewed,1,[516]
-sewn,2,"[479, 755]"
-shade,2,"[166, 807]"
-shades,5,"[88, 94, 146, 160, 768]"
-shape,2,"[76, 428]"
-shows,3,"[128, 593, 680]"
-si,2,"[355, 408]"
-side,2,"[438, 582]"
-sides,1,[177]
-sil,2,"[91, 203]"
-silk,20,"[45, 97, 102, 107, 144, 153, 173, 189, 325, 371, 402, 490, 494, 537, 555, 577, 732, 750, 779, 795]"
-silver,5,"[739, 742, 752, 770, 777]"
-simple,1,[238]
-size,6,"[117, 137, 565, 599, 723, 798]"
-skein,1,[104]
-slightly,1,[440]
-small,4,"[118, 332, 396, 471]"
-spot,1,[149]
-spots,1,[351]
-sprays,2,"[360, 369]"
-stand,1,[120]
-steel,1,[326]
-stems,2,"[162, 491]"
-stitch,16,"[29, 57, 170, 263, 358, 586, 610, 631, 645, 657, 663, 673, 701, 710, 775, 797]"
-stitches,4,"[487, 496, 542, 716]"
-strap,2,"[416, 452]"
-straps,1,[539]
-strips,1,[619]
-table,1,[126]
-tabs,2,"[621, 665]"
-tacked,1,[248]
-taken,1,[21]
-tape,1,[667]
-tassels,2,"[111, 207]"
-taste,1,[501]
-tent,1,[169]
-ternate,1,[383]
-th,1,[566]
-third,1,[804]
-thread,2,"[746, 754]"
-three,1,[145]
-toilet,1,[125]
-top,2,"[193, 617]"
-traced,1,[467]
-trimmed,1,[435]
-two,2,"[176, 767]"
-ull,1,[598]
-upon,4,"[124, 139, 249, 785]"
-vandyke,1,[704]
-vandykes,4,"[588, 612, 633, 634]"
-variety,1,[336]
-various,1,[159]
-velvet,3,"[735, 757, 766]"
-violet,2,"[89, 147]"
-violets,1,[142]
-wadded,2,"[441, 523]"
-wadding,1,[461]
-walter,2,"[12, 218]"
-way,1,[688]
-wear,1,[292]
-well,1,[616]
-white,5,"[40, 49, 299, 731, 749]"
-whole,1,[454]
-wool,7,"[100, 158, 415, 557, 579, 590, 696]"
-work,9,"[241, 423, 425, 470, 600, 606, 694, 697, 706]"
-worked,22,"[19, 24, 47, 138, 150, 156, 226, 242, 256, 268, 298, 353, 374, 493, 528, 635, 668, 676, 763, 773, 784, 792]"
-working,1,[689]
-yell,1,[151]
-yellow,1,[105]
+-.3,-.7,-1.6,-10,-2,-2.9,-4,-5,.0,.1,.2,.3,.4,.6,.7,.8,.9,0,1,1.01.52.02.53.03.54.0201120122013tealbook,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5201020112012-6-5-4-3-2-10201120122013tealbook,1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/52010201120120.00.5,1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5201020112012alternative,10,10.2,11.4,11.6,15200820092010201120122013,16real,2,2.0,2.1,2.2,2.3,2.4,2.5,2.8,2.9,2011,20112012h1q3q4q1q2h22013,2012,2013,2014,2015-measure,3.0,3.4,3.5,3.6,3.7,3.9,4,4.2,5,5.1,6,6.2,6.5,6.7,6.9,7.1,7.3,7.7,7.8,8.0,8.1,8.2,8.3,8.4,8.5,8.6,8.7,8.8,8.9,8200820092010201120122013,account,advanced,annual,annualized,average,balancepercent,baseline.1,baseline1.4,baseline1.5,baseline2.4,baseline8.7,change,consumer,core,cpipercent,crisis,current,damage,date,decade.1,decade1.4,decade1.5,decade2.4,decade8.7,disinflation.1,disinflation1.4,disinflation1.5,disinflation2.4,disinflation8.7,economies,economies.92.7.6.6.51.11.5,economies2.71.02.81.61.21.31.1,economies4.64.63.33.03.33.13.2,economies5.34.63.54.64.34.34.5,economiesemerging,emerging,end,european,except,faster,federal,final,forecast0123456201120122013tealbook,foreign,foreign3.03.62.02.52.32.63.0,foreign3.73.13.12.32.42.32.3,funds,gdp,gdpextended,gdppercent,greater,h2,higher,indicated.evolution,international,lost,market,note,noted,oil,outlook,pce,percent,period,preceding,previous,prices,prices.1,prices1.4,prices1.5,prices2.4,prices8.7,pricesextended,pricespercent,publication,q4/q4,quarter,rate,rate1extended,rateadvanced,ratecurrentprevious,ratetotal,real,scenario,scenarios,severe,snapback.1,snapback1.4,snapback1.5,snapback2.4,snapback8.7,spillovers.1,spillovers1.4,spillovers1.5,spillovers2.4,spillovers8.7,staff,supply-side,tealbook,tealbook1.22.71.0.7.61.11.6,tealbook2.71.12.91.41.11.11.1,tealbook3.23.62.32.52.42.73.0,tealbook3.73.13.52.62.32.22.3,tealbook4.64.63.93.63.23.13.2,tealbook5.34.73.74.44.34.44.6,tealbooktotal,total,u.s.,unemployment
+-.3,1,[286]
+-.7,1,[285]
+-1.6,1,[189]
+-10,2,"[6, 20]"
+-2,2,"[34, 49]"
+-2.9,1,[188]
+-4,2,"[33, 48]"
+-5,2,"[7, 21]"
+.0,2,"[280, 329]"
+.1,18,"[350, 351, 356, 362, 363, 364, 365, 369, 370, 375, 376, 377, 378, 383, 384, 385, 390, 391]"
+.2,2,"[328, 335]"
+.3,4,"[278, 279, 352, 392]"
+.4,4,"[327, 334, 357, 386]"
+.6,1,[371]
+.7,1,[277]
+.8,1,[326]
+.9,1,[336]
+0,4,"[8, 22, 35, 50]"
+1,1,[394]
+1.01.52.02.53.03.54.0201120122013tealbook,1,[117]
+1.2,5,"[195, 267, 287, 293, 316]"
+1.3,3,"[253, 265, 315]"
+1.4,9,"[252, 258, 259, 264, 266, 271, 302, 303, 314]"
+1.5,9,"[254, 255, 294, 301, 304, 307, 308, 313, 320]"
+1.6,2,"[272, 358]"
+1.7,7,"[175, 176, 309, 321, 341, 343, 344]"
+1.8,3,"[260, 295, 342]"
+1.9,6,"[167, 168, 196, 273, 337, 372]"
+1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5201020112012-6-5-4-3-2-10201120122013tealbook,1,[125]
+1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/52010201120120.00.5,1,[116]
+1/203/104/216/168/49/1510/2712/81/193/94/206/158/39/1410/2612/71/183/74/186/137/259/510/1712/5201020112012alternative,1,[133]
+10,2,"[10, 24]"
+10.2,1,[236]
+11.4,1,[238]
+11.6,1,[237]
+15200820092010201120122013,2,"[11, 25]"
+16real,1,[151]
+2,2,"[36, 51]"
+2.0,7,"[169, 180, 181, 261, 310, 322, 393]"
+2.1,1,[155]
+2.2,2,"[288, 323]"
+2.3,3,"[274, 275, 324]"
+2.4,3,"[156, 170, 174]"
+2.5,2,"[177, 353]"
+2.8,1,[359]
+2.9,3,"[161, 178, 182]"
+2011,1,[147]
+20112012h1q3q4q1q2h22013,1,[61]
+2012,1,[148]
+2013,1,[149]
+2014,1,[150]
+2015-measure,1,[145]
+3.0,1,[164]
+3.4,3,"[162, 292, 373]"
+3.5,2,"[190, 197]"
+3.6,1,[157]
+3.7,1,[163]
+3.9,2,"[158, 183]"
+4,2,"[37, 52]"
+4.2,1,[198]
+5,2,"[9, 23]"
+5.1,1,[191]
+6,2,"[38, 53]"
+6.2,1,[212]
+6.5,1,[206]
+6.7,1,[211]
+6.9,1,[246]
+7.1,1,[231]
+7.3,1,[210]
+7.7,1,[226]
+7.8,1,[205]
+8.0,1,[225]
+8.1,1,[224]
+8.2,1,[204]
+8.3,2,"[209, 230]"
+8.4,2,"[229, 245]"
+8.5,2,"[218, 223]"
+8.6,2,"[203, 228]"
+8.7,4,"[215, 216, 217, 222]"
+8.8,1,[244]
+8.9,2,"[239, 243]"
+8200820092010201120122013,2,"[39, 54]"
+account,1,[130]
+advanced,2,"[68, 84]"
+annual,6,"[4, 14, 29, 42, 58, 137]"
+annualized,1,[95]
+average,1,[396]
+balancepercent,1,[131]
+baseline.1,1,[349]
+baseline1.4,1,[251]
+baseline1.5,1,[300]
+baseline2.4,1,[154]
+baseline8.7,1,[202]
+change,9,"[3, 13, 28, 41, 57, 97, 114, 123, 136]"
+consumer,2,"[55, 78]"
+core,1,[296]
+cpipercent,1,[122]
+crisis,5,"[185, 233, 282, 331, 380]"
+current,1,[129]
+damage,5,"[173, 221, 270, 319, 368]"
+date,3,"[110, 119, 127]"
+decade.1,1,[361]
+decade1.4,1,[263]
+decade1.5,1,[312]
+decade2.4,1,[166]
+decade8.7,1,[214]
+disinflation.1,1,[374]
+disinflation1.4,1,[276]
+disinflation1.5,1,[325]
+disinflation2.4,1,[179]
+disinflation8.7,1,[227]
+economies,2,"[19, 47]"
+economies.92.7.6.6.51.11.5,1,[70]
+economies2.71.02.81.61.21.31.1,1,[86]
+economies4.64.63.33.03.33.13.2,1,[91]
+economies5.34.63.54.64.34.34.5,1,[75]
+economiesemerging,2,"[17, 45]"
+emerging,2,"[73, 89]"
+end,1,[139]
+european,5,"[184, 232, 281, 330, 379]"
+except,1,[142]
+faster,5,"[159, 207, 256, 305, 354]"
+federal,1,[345]
+final,3,"[98, 102, 397]"
+forecast0123456201120122013tealbook,1,[108]
+foreign,9,"[0, 16, 32, 44, 60, 69, 85, 112, 121]"
+foreign3.03.62.02.52.32.63.0,1,[65]
+foreign3.73.13.12.32.42.32.3,1,[81]
+funds,1,[346]
+gdp,2,"[63, 132]"
+gdpextended,1,[152]
+gdppercent,2,"[27, 113]"
+greater,5,"[171, 219, 268, 317, 366]"
+h2,1,[144]
+higher,5,"[192, 240, 289, 338, 387]"
+indicated.evolution,1,[105]
+international,1,[107]
+lost,5,"[165, 213, 262, 311, 360]"
+market,4,"[18, 46, 74, 90]"
+note,1,[94]
+noted,1,[143]
+oil,5,"[193, 241, 290, 339, 388]"
+outlook,1,[1]
+pce,2,"[248, 297]"
+percent,6,"[2, 12, 40, 96, 135, 395]"
+period,4,"[101, 104, 141, 399]"
+preceding,2,"[100, 140]"
+previous,6,"[66, 71, 76, 82, 87, 92]"
+prices,1,[79]
+prices.1,1,[389]
+prices1.4,1,[291]
+prices1.5,1,[340]
+prices2.4,1,[194]
+prices8.7,1,[242]
+pricesextended,2,"[249, 298]"
+pricespercent,1,[56]
+publication,3,"[109, 118, 126]"
+q4/q4,2,"[115, 124]"
+quarter,3,"[99, 103, 398]"
+rate,2,"[5, 138]"
+rate1extended,2,"[200, 347]"
+rateadvanced,2,"[15, 43]"
+ratecurrentprevious,1,[30]
+ratetotal,1,[59]
+real,2,"[26, 62]"
+scenario,1,[146]
+scenarios,1,[134]
+severe,5,"[186, 234, 283, 332, 381]"
+snapback.1,1,[355]
+snapback1.4,1,[257]
+snapback1.5,1,[306]
+snapback2.4,1,[160]
+snapback8.7,1,[208]
+spillovers.1,1,[382]
+spillovers1.4,1,[284]
+spillovers1.5,1,[333]
+spillovers2.4,1,[187]
+spillovers8.7,1,[235]
+staff,1,[106]
+supply-side,5,"[172, 220, 269, 318, 367]"
+tealbook,5,"[153, 201, 250, 299, 348]"
+tealbook1.22.71.0.7.61.11.6,1,[72]
+tealbook2.71.12.91.41.11.11.1,1,[88]
+tealbook3.23.62.32.52.42.73.0,1,[67]
+tealbook3.73.13.52.62.32.22.3,1,[83]
+tealbook4.64.63.93.63.23.13.2,1,[93]
+tealbook5.34.73.74.44.34.44.6,1,[77]
+tealbooktotal,1,[31]
+total,5,"[64, 80, 111, 120, 247]"
+u.s.,1,[128]
+unemployment,1,[199]
