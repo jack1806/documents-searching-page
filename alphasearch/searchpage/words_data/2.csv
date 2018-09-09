@@ -1,190 +1,253 @@
---,1,10,10th,11,12th,13,14th,15,16th,18th,1st,2,20th,22,22nd,24th,26th,28th,2_nd,2nd,3,30th,32nd,335,336,337,34th,36,36th,38th,3_rd,3rd,4,40th,42nd,44th,45th,46th,4_th,4th,5,579,5th,6,6th,7,7th,8th,9,_,_knitted,_looped,afterwards,alternately,attain,back,backwards,behind,border,borders,bring,cast,centre,ch,chiefly,circle,co.,coarser,comforters,comforters._,commence,cott,cotto,cotton,croche,crochet,d'oyley,double,drawing,either,embroidery,end,evans,every,explained,figures,fine,first,flat,fleecy,follows,formed,forward,forwards,four,glazed,go,hand,illustration,increases,ing,insert,join,k,kni,knit,knitted,knitting,knitting._,lace,last,lastly,latter,like,loop,loosely,materials,mats,mention,mesh,messrs.,middle,n,nds,needle,needles,next,nit,number,often,one,page,part,parts,pattern,pla,place,placed,plain,purl,purled,repeat,required,right,rou,round,rounds,row,row_,rows,second,see,separately,sewn,shall,short,side,slip,spots,steel,stit,stitch,stitches,sufficient,ther,thick,thread,thro,throw,titch,toge,toget,together,turn,twice,upwards,used,w,walter,way,well,wing,without,wooden,wool,work,worked,wound
---,8,"[1, 27, 79, 101, 116, 120, 192, 866]"
-1,33,"[13, 143, 145, 147, 176, 182, 253, 265, 287, 301, 306, 313, 338, 362, 386, 442, 458, 492, 496, 523, 620, 628, 636, 709, 722, 736, 804, 826, 839, 870, 872, 908, 918]"
-10,1,[210]
-10th,1,[307]
-11,2,"[576, 939]"
-12th,1,[320]
-13,1,[546]
-14th,1,[345]
-15,1,[414]
-16th,2,"[369, 401]"
-18th,1,[393]
-1st,5,"[22, 29, 97, 136, 867]"
-2,69,"[9, 128, 246, 282, 318, 332, 343, 356, 367, 380, 391, 409, 419, 436, 447, 455, 460, 470, 481, 489, 501, 517, 528, 536, 543, 548, 554, 567, 573, 578, 584, 597, 603, 608, 614, 625, 630, 643, 649, 655, 661, 685, 692, 697, 703, 714, 716, 727, 731, 743, 749, 754, 760, 795, 801, 806, 812, 820, 831, 877, 883, 889, 894, 900, 902, 913, 928, 931, 936]"
-20th,1,[394]
-22,1,[862]
-22nd,1,[395]
-24th,2,"[396, 417]"
-26th,1,[428]
-28th,1,[462]
-2_nd,1,[25]
-2nd,3,"[103, 153, 915]"
-3,23,"[138, 149, 168, 173, 179, 188, 292, 327, 476, 509, 560, 667, 672, 678, 752, 766, 771, 777, 782, 788, 818, 834, 923]"
-30th,1,[493]
-32nd,1,[533]
-335,1,[0]
-336,2,"[115, 119]"
-337,1,[191]
-34th,1,[564]
-36,1,[206]
-36th,1,[594]
-38th,1,[640]
-3_rd,1,[77]
-3rd,2,"[157, 249]"
-4,3,"[5, 125, 892]"
-40th,1,[682]
-42nd,1,[740]
-44th,1,[792]
-45th,1,[848]
-46th,1,[849]
-4_th,1,[99]
-4th,2,"[160, 257]"
-5,4,"[351, 590, 695, 844]"
-579,1,[197]
-5th,1,[258]
-6,7,"[241, 434, 450, 468, 484, 504, 515]"
-6th,1,[261]
-7,2,"[375, 653]"
-7th,1,[269]
-8th,1,[279]
-9,1,[606]
-_,1,[198]
-_knitted,2,"[121, 193]"
-_looped,1,[2]
-afterwards,1,[234]
-alternately,2,"[251, 263]"
-attain,1,[94]
-back,1,[53]
-backwards,1,[859]
-behind,1,[44]
-border,2,"[223, 855]"
-borders,1,[112]
-bring,1,[52]
-cast,5,"[17, 132, 240, 852, 861]"
-centre,1,[239]
-ch,1,[178]
-chiefly,1,[110]
-circle,1,[244]
-co.,1,[203]
-coarser,1,[235]
-comforters,1,[118]
-comforters._,1,[123]
-commence,1,[237]
-cott,1,[910]
-cotto,1,[688]
-cotton,91,"[36, 205, 209, 218, 236, 255, 267, 284, 289, 298, 303, 310, 315, 323, 329, 335, 340, 348, 353, 359, 364, 372, 377, 383, 388, 426, 431, 439, 444, 452, 465, 473, 478, 486, 498, 506, 512, 520, 525, 531, 540, 551, 557, 562, 570, 581, 587, 592, 600, 611, 617, 622, 633, 638, 646, 658, 664, 669, 675, 680, 700, 706, 711, 719, 724, 733, 738, 746, 757, 763, 768, 774, 779, 785, 790, 798, 809, 815, 823, 828, 836, 841, 846, 874, 880, 886, 897, 905, 920, 925, 933]"
-croche,1,[204]
-crochet,1,[217]
-d'oyley,1,[194]
-double,2,"[61, 89]"
-drawing,1,[80]
-either,1,[422]
-embroidery,1,[208]
-end,1,[294]
-evans,1,[202]
-every,3,"[88, 272, 411]"
-explained,1,[71]
-figures,1,[407]
-fine,1,[216]
-first,1,[140]
-flat,1,[14]
-fleecy,2,"[7, 127]"
-follows,1,[865]
-formed,2,"[186, 421]"
-forward,89,"[37, 256, 268, 285, 290, 299, 304, 311, 316, 324, 330, 336, 341, 349, 354, 360, 365, 373, 378, 384, 389, 427, 432, 440, 445, 453, 466, 474, 479, 487, 499, 507, 513, 521, 526, 532, 541, 552, 558, 563, 571, 582, 588, 593, 601, 612, 618, 623, 634, 639, 647, 659, 665, 670, 676, 681, 690, 701, 707, 712, 720, 725, 734, 739, 747, 758, 764, 769, 775, 780, 786, 791, 799, 810, 816, 824, 829, 837, 842, 847, 875, 881, 887, 898, 906, 911, 921, 926, 934]"
-forwards,1,[860]
-four,1,[164]
-glazed,1,[207]
-go,1,[38]
-hand,1,[47]
-illustration,1,[114]
-increases,1,[408]
-ing,1,[39]
-insert,2,"[31, 66]"
-join,1,[243]
-k,2,"[325, 651]"
-kni,1,[142]
-knit,130,"[21, 40, 65, 72, 84, 146, 148, 245, 252, 264, 281, 286, 291, 300, 305, 312, 317, 331, 337, 342, 350, 355, 361, 366, 374, 379, 385, 390, 433, 435, 441, 446, 449, 454, 457, 459, 467, 469, 475, 480, 483, 488, 491, 495, 500, 503, 508, 514, 516, 522, 527, 535, 542, 545, 547, 553, 559, 566, 572, 575, 577, 583, 589, 596, 602, 605, 607, 613, 619, 624, 627, 629, 635, 642, 648, 654, 660, 666, 671, 677, 684, 691, 694, 696, 702, 708, 713, 715, 721, 726, 730, 735, 742, 748, 751, 753, 759, 765, 770, 776, 781, 787, 794, 800, 803, 805, 811, 817, 819, 825, 830, 833, 838, 843, 864, 871, 876, 882, 888, 891, 893, 899, 901, 907, 912, 922, 927, 930, 935, 938]"
-knitted,4,"[91, 162, 170, 215]"
-knitting,6,"[11, 109, 130, 156, 187, 212]"
-knitting._,1,[3]
-lace,2,"[222, 854]"
-last,1,[73]
-lastly,1,[296]
-latter,1,[226]
-like,2,"[102, 400]"
-loop,1,[76]
-loosely,1,[853]
-materials,3,"[4, 124, 199]"
-mats,1,[113]
-mention,1,[276]
-mesh,4,"[16, 43, 57, 81]"
-messrs.,1,[200]
-middle,3,"[219, 228, 403]"
-n,1,[689]
-nds,1,[398]
-needle,6,"[32, 45, 50, 54, 60, 67]"
-needles,3,"[12, 131, 213]"
-next,3,"[33, 68, 166]"
-nit,2,"[326, 652]"
-number,3,"[19, 95, 134]"
-often,1,[107]
-one,3,"[85, 92, 185]"
-page,1,[196]
-part,3,"[220, 229, 405]"
-parts,1,[232]
-pattern,6,"[117, 122, 214, 238, 406, 412]"
-pla,1,[260]
-place,1,[42]
-placed,1,[184]
-plain,10,"[24, 86, 155, 247, 271, 274, 277, 404, 415, 851]"
-purl,1,[144]
-purled,1,[159]
-repeat,5,"[70, 105, 152, 163, 293]"
-required,1,[108]
-right,1,[46]
-rou,1,[397]
-round,25,"[56, 59, 250, 262, 270, 273, 280, 295, 308, 321, 346, 370, 402, 413, 418, 429, 463, 494, 534, 565, 595, 641, 683, 741, 793]"
-rounds,4,"[248, 259, 278, 850]"
-row,11,"[23, 87, 98, 104, 137, 154, 158, 161, 167, 868, 916]"
-row_,3,"[26, 78, 100]"
-rows,2,"[106, 165]"
-second,1,[63]
-see,1,[195]
-separately,1,[225]
-sewn,1,[227]
-shall,1,[275]
-short,1,[857]
-side,1,[423]
-slip,3,"[28, 869, 917]"
-spots,1,[230]
-steel,1,[211]
-stit,1,[177]
-stitch,10,"[30, 34, 41, 64, 69, 74, 90, 93, 141, 183]"
-stitches,14,"[20, 96, 135, 139, 150, 169, 174, 180, 189, 242, 410, 416, 420, 863]"
-sufficient,2,"[18, 133]"
-ther,1,[729]
-thick,1,[231]
-thread,2,"[6, 126]"
-thro,2,"[424, 538]"
-throw,87,"[35, 254, 266, 283, 288, 297, 302, 309, 314, 322, 328, 334, 339, 347, 352, 358, 363, 371, 376, 382, 387, 430, 438, 443, 451, 464, 472, 477, 485, 497, 505, 511, 519, 524, 530, 550, 556, 561, 569, 580, 586, 591, 599, 610, 616, 621, 632, 637, 645, 657, 663, 668, 674, 679, 687, 699, 705, 710, 718, 723, 732, 737, 745, 756, 762, 767, 773, 778, 784, 789, 797, 808, 814, 822, 827, 835, 840, 845, 873, 879, 885, 896, 904, 909, 919, 924, 932]"
-titch,1,[62]
-toge,1,[728]
-toget,1,[802]
-together,64,"[151, 171, 190, 319, 333, 344, 357, 368, 381, 392, 437, 448, 456, 461, 471, 482, 490, 502, 510, 518, 529, 537, 544, 549, 555, 568, 574, 579, 585, 598, 604, 609, 615, 626, 631, 644, 650, 656, 662, 673, 686, 693, 698, 704, 717, 744, 750, 755, 761, 772, 783, 796, 807, 813, 821, 832, 878, 884, 890, 895, 903, 914, 929, 937]"
-turn,2,"[48, 82]"
-twice,1,[58]
-upwards,1,[51]
-used,1,[111]
-w,1,[539]
-walter,1,[201]
-way,1,[858]
-well,1,[221]
-wing,1,[425]
-without,1,[75]
-wooden,3,"[10, 15, 129]"
-wool,2,"[8, 49]"
-work,1,[83]
-worked,7,"[172, 175, 181, 224, 233, 399, 856]"
-wound,1,[55]
+'',-.41.41.41.4,-0.25,-0.5,-10-8-6-4-20246-10,-1000-800-600,-400-2000,-400-2000200400600-1000,-5.4-5.8-5.5-5.2-4.8,-8-6-4-20246percent,-800-600,.4.0-.3-.4-.3-.2-.3,.5.91.4.9.8.9.9,.71.5.8.4.5.5.7,0effect,1,1.51.0.6.5.6.7.6,1.52.72.41.41.51.61.7,113,1972,1974-,1995200020052010,1996-,2,2.5,2.5-.42.11.31.2,2001-,2001200220032004200520062007200820092010201120122013,200400600thousands,2005,20092010201120122013,2010,2011,2011201020122013,2012,2013,2althoughunderstatedincomeandoverstated,3,3.03.52.41.61.72.02.1,4244,44,45,46,485052,54,56,58,6042,606570,60chained,6364,64,64.564.164.164.164.0,65,6570,66676863,666768percent,678910,67891011percent,7580859060,75808590percent,9.69.18.88.68.2,98165145168173,``,accordingly,accuratelyobserveorestimatethesevariables,actual,actualand,adjustment,adjustmentunemployment,afterweighingthevariousinterpretations,analysis,annual,assumptions,assumptions.1995200020052010,assumptions.nairunairu,assumptions.the,astandardpcemodelmightstilloverstatetheimplicationsofthecurrent,average,bars,bea,becausewecannot,bls,bls.nonfarm,board,bureau,business,byalittlelessthanourpreferredmodelwouldhavesuggested,capacity,capital,change,changes,changesincreditconditions,civilian,commerce,compensation,components,consumption,consumptionhavesimilarimplicationsforconsumptiongrowth,contributions1,couldallhaveimportantinfluencesonthesavingrate.however,currentestimates,currentprevious,decomposition,deepening,defined,department,dept,difference,dollars,duringthepastdecade,economic,economy,eeb,effectof,emergency,employment,employment198165155163171,estimate,estimated,except,extended,federal,final,first,force,forlargeincomerevisionsinaquarteršsuchastherecentdownwardrevisiontosecond,g.17,gap,gap1995200020052010,gap3-5.4-5.8-5.5-5.4-5.2,gdp,goingforward.2evenifincomeandconsumer,gray,growth,growthandtheunemployment,h1h2,hasbeensometendency,hour,hours,imbalancebetweenconsumptionandincomeforfutureconsumptiongrowthbecausetheseapparentimbalancesmayinsteadreflectfactorsorbehaviorthat,income,incomeuncertainty,indicate,indicated,indicates,industrial,inwhichcasethe,isnowapparent,isverylimited,january,labor,last,level,levelofactualconsumptionwouldbebetteralignedwithincomethan,manufacturing,market,may,maybetoohigh,measure,measure19952000,memo,model,monthly,moreover,multifactor,multiyear,nairu,national,negative,nonfarm,note,noted,number,october,ofconsumption,ofconsumptiongrowthfrom,oftherecentincomedata,operating,ortheproportionofcurrentincomethatisperceivedtobetransitory,outlook,output,overtheprojection,participation,pce,per,percent,percentage,period,periods,points,points.2001200220032004200520062007200820092010201120122013,potential,preceding,previous,private,production,productivity,programs,projected,projection,q4,q4/q4,quarter,quartercompensationštobepartiallyunwoundsubsequently.totheextent,rate,rate1995200020052010,rate264.464.164.064.063.9,rate29.69.18.78.68.2,rateobservedoverthesameperiod,ratesource,readingofthemodelresultswouldindicate.similarly,real,recession,redbarsinthefigurebelow,release,research.gdp,reserve,resource,revision,rounding,sector,selected,shaded,shown,source,spendingweremeasuredwithouterror,staff,statistical,statistics,structural,structuralstructural,sum,tealbook,tealbooksource,theabilityofourmodelstoconditiononthem,thebluebars,thecurrentlypublishedestimatesofincomearetoolow,theeconomy,themodeldoesnotcapture.forexample,theoctobertealbooktothejanuary,theoutlookforconsumptionshouldbebrighterthanamechanical,therewouldbelessreasontoprojectaslowergrowthrateofconsumption,thestabilityinbothemployment,theyhaveoppositeimplicationsforthelevelofconsumptionovertheprojection,thousands,totals,u.s.,unemployment,utilization,wereviseddownourprojection,year
+'',1,[374]
+-.41.41.41.4,1,[214]
+-0.25,1,[51]
+-0.5,1,[50]
+-10-8-6-4-20246-10,1,[322]
+-1000-800-600,1,[277]
+-400-2000,1,[280]
+-400-2000200400600-1000,1,[278]
+-5.4-5.8-5.5-5.2-4.8,1,[242]
+-8-6-4-20246percent,1,[323]
+-800-600,1,[279]
+.4.0-.3-.4-.3-.2-.3,2,"[118, 119]"
+.5.91.4.9.8.9.9,2,"[110, 113]"
+.71.5.8.4.5.5.7,2,"[104, 107]"
+0effect,1,[52]
+1,2,"[142, 243]"
+1.51.0.6.5.6.7.6,2,"[116, 117]"
+1.52.72.41.41.51.61.7,2,"[98, 101]"
+113,1,[297]
+1972,1,[365]
+1974-,1,[81]
+1995200020052010,1,[293]
+1996-,1,[82]
+2,1,[248]
+2.5,1,[213]
+2.5-.42.11.31.2,1,[217]
+2001-,1,[83]
+2001200220032004200520062007200820092010201120122013,1,[170]
+200400600thousands,1,[281]
+2005,1,[159]
+20092010201120122013,1,[85]
+2010,1,[366]
+2011,1,[55]
+2011201020122013,1,[205]
+2012,1,[46]
+2013,1,[48]
+2althoughunderstatedincomeandoverstated,1,[42]
+3,2,"[254, 294]"
+3.03.52.41.61.72.02.1,2,"[89, 92]"
+4244,1,[145]
+44,1,[152]
+45,2,"[295, 298]"
+46,2,"[146, 153]"
+485052,2,"[147, 154]"
+54,2,"[148, 155]"
+56,2,"[149, 156]"
+58,2,"[150, 157]"
+6042,1,[151]
+606570,1,[359]
+60chained,1,[158]
+6364,1,[171]
+64,1,[174]
+64.564.164.164.164.0,1,[230]
+65,2,"[172, 175]"
+6570,1,[361]
+66676863,1,[173]
+666768percent,1,[176]
+678910,1,[296]
+67891011percent,1,[299]
+7580859060,1,[360]
+75808590percent,1,[362]
+9.69.18.88.68.2,1,[236]
+98165145168173,1,[223]
+``,1,[379]
+accordingly,1,[17]
+accuratelyobserveorestimatethesevariables,1,[30]
+actual,3,"[164, 178, 257]"
+actualand,1,[329]
+adjustment,1,[302]
+adjustmentunemployment,1,[320]
+afterweighingthevariousinterpretations,1,[33]
+analysis,1,[191]
+annual,1,[130]
+assumptions,1,[344]
+assumptions.1995200020052010,1,[276]
+assumptions.nairunairu,1,[318]
+assumptions.the,1,[193]
+astandardpcemodelmightstilloverstatetheimplicationsofthecurrent,1,[21]
+average,5,"[131, 245, 250, 290, 363]"
+bars,1,[348]
+bea,1,[342]
+becausewecannot,1,[29]
+bls,2,"[274, 316]"
+bls.nonfarm,1,[287]
+board,1,[370]
+bureau,3,"[186, 189, 355]"
+business,3,"[168, 212, 351]"
+byalittlelessthanourpreferredmodelwouldhavesuggested,1,[40]
+capacity,2,"[377, 381]"
+capital,1,[102]
+change,3,"[76, 129, 200]"
+changes,2,"[247, 292]"
+changesincreditconditions,1,[25]
+civilian,1,[231]
+commerce,1,[341]
+compensation,1,[309]
+components,1,[121]
+consumption,1,[62]
+consumptionhavesimilarimplicationsforconsumptiongrowth,1,[43]
+contributions1,1,[94]
+couldallhaveimportantinfluencesonthesavingrate.however,1,[28]
+currentestimates,1,[11]
+currentprevious,1,[282]
+decomposition,1,[72]
+deepening,1,[103]
+defined,1,[353]
+department,2,"[184, 272]"
+dept,3,"[285, 314, 340]"
+difference,2,"[256, 328]"
+dollars,1,[160]
+duringthepastdecade,1,[4]
+economic,2,"[190, 356]"
+economy,1,[267]
+eeb,2,"[301, 319]"
+effectof,1,[305]
+emergency,1,[307]
+employment,1,[289]
+employment198165155163171,1,[220]
+estimate,1,[304]
+estimated,1,[22]
+except,1,[79]
+extended,1,[306]
+federal,1,[368]
+final,3,"[201, 251, 260]"
+first,1,[135]
+force,2,"[180, 225]"
+forlargeincomerevisionsinaquarteršsuchastherecentdownwardrevisiontosecond,1,[6]
+g.17,1,[371]
+gap,1,[326]
+gap1995200020052010,1,[358]
+gap3-5.4-5.8-5.5-5.4-5.2,1,[239]
+gdp,6,"[74, 88, 238, 259, 325, 331]"
+goingforward.2evenifincomeandconsumer,1,[19]
+gray,1,[346]
+growth,1,[63]
+growthandtheunemployment,1,[1]
+h1h2,1,[207]
+hasbeensometendency,1,[5]
+hour,2,"[162, 210]"
+hours,1,[115]
+imbalancebetweenconsumptionandincomeforfutureconsumptiongrowthbecausetheseapparentimbalancesmayinsteadreflectfactorsorbehaviorthat,1,[23]
+income,1,[57]
+incomeuncertainty,1,[26]
+indicate,1,[349]
+indicated,1,[263]
+indicates,2,"[266, 334]"
+industrial,1,[375]
+inwhichcasethe,1,[14]
+isnowapparent,1,[16]
+isverylimited,1,[32]
+january,1,[59]
+labor,10,"[96, 165, 179, 185, 187, 195, 224, 273, 286, 315]"
+last,1,[139]
+level,1,[54]
+levelofactualconsumptionwouldbebetteralignedwithincomethan,1,[15]
+manufacturing,1,[380]
+market,1,[196]
+may,1,[122]
+maybetoohigh,1,[13]
+measure,1,[206]
+measure19952000,1,[84]
+memo,1,[237]
+model,1,[68]
+monthly,2,"[246, 291]"
+moreover,1,[3]
+multifactor,1,[108]
+multiyear,1,[126]
+nairu,1,[311]
+national,1,[354]
+negative,2,"[264, 332]"
+nonfarm,3,"[167, 211, 218]"
+note,4,"[120, 300, 324, 345]"
+noted,1,[80]
+number,2,"[265, 333]"
+october,1,[58]
+ofconsumption,1,[12]
+ofconsumptiongrowthfrom,1,[36]
+oftherecentincomedata,1,[34]
+operating,2,"[268, 336]"
+ortheproportionofcurrentincomethatisperceivedtobetransitory,1,[27]
+outlook,1,[194]
+output,1,[208]
+overtheprojection,1,[44]
+participation,2,"[181, 226]"
+pce,2,"[67, 70]"
+per,2,"[161, 209]"
+percent,6,"[75, 128, 199, 249, 255, 327]"
+percentage,2,"[64, 143]"
+period,4,"[204, 253, 262, 350]"
+periods,1,[127]
+points,1,[65]
+points.2001200220032004200520062007200820092010201120122013,1,[144]
+potential,6,"[73, 86, 258, 269, 330, 337]"
+preceding,2,"[134, 203]"
+previous,9,"[90, 99, 105, 111, 215, 221, 228, 234, 240]"
+private,2,"[219, 288]"
+production,1,[376]
+productivity,3,"[97, 109, 166]"
+programs,1,[310]
+projected,1,[61]
+projection,1,[71]
+q4,5,"[56, 77, 78, 132, 138]"
+q4/q4,2,"[47, 49]"
+quarter,3,"[202, 252, 261]"
+quartercompensationštobepartiallyunwoundsubsequently.totheextent,1,[7]
+rate,2,"[364, 383]"
+rate1995200020052010,1,[321]
+rate264.464.164.064.063.9,1,[227]
+rate29.69.18.78.68.2,1,[233]
+rateobservedoverthesameperiod,1,[2]
+ratesource,1,[182]
+readingofthemodelresultswouldindicate.similarly,1,[10]
+real,1,[87]
+recession,1,[352]
+redbarsinthefigurebelow,1,[39]
+release,1,[373]
+research.gdp,1,[357]
+reserve,1,[369]
+resource,1,[197]
+revision,1,[53]
+rounding,1,[125]
+sector,1,[169]
+selected,1,[93]
+shaded,1,[347]
+shown,2,"[137, 141]"
+source,4,"[270, 312, 338, 367]"
+spendingweremeasuredwithouterror,1,[20]
+staff,7,"[66, 69, 192, 275, 303, 317, 343]"
+statistical,1,[372]
+statistics,1,[188]
+structural,2,"[95, 114]"
+structuralstructural,2,"[163, 177]"
+sum,1,[123]
+tealbook,11,"[38, 60, 91, 100, 106, 112, 216, 222, 229, 235, 241]"
+tealbooksource,1,[283]
+theabilityofourmodelstoconditiononthem,1,[31]
+thebluebars,1,[41]
+thecurrentlypublishedestimatesofincomearetoolow,1,[8]
+theeconomy,1,[335]
+themodeldoesnotcapture.forexample,1,[24]
+theoctobertealbooktothejanuary,1,[37]
+theoutlookforconsumptionshouldbebrighterthanamechanical,1,[9]
+therewouldbelessreasontoprojectaslowergrowthrateofconsumption,1,[18]
+thestabilityinbothemployment,1,[0]
+theyhaveoppositeimplicationsforthelevelofconsumptionovertheprojection,1,[45]
+thousands,1,[244]
+totals,1,[124]
+u.s.,5,"[183, 271, 284, 313, 339]"
+unemployment,2,"[232, 308]"
+utilization,3,"[198, 378, 382]"
+wereviseddownourprojection,1,[35]
+year,3,"[133, 136, 140]"

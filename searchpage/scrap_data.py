@@ -2,7 +2,7 @@ import PyPDF2
 import numpy as np
 import csv
 
-from DocumentSearch import DocumentSearch
+from .DocumentSearch import DocumentSearch
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from django.conf import settings

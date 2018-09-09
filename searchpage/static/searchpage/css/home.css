@@ -104,6 +104,19 @@ a:visited{
     cursor: pointer;
 
 }
+.customize-search-btn{
+    background: transparent !important;
+    padding: 5px 0px;
+    border-radius: 10px;
+    box-shadow: none;
+    position: relative;
+    left:-35px;
+    border:none;
+    color: #07F7A9;
+    cursor: pointer;
+    font-size: 18px;
+}
+
 
 button:focus { outline:none } 
 
@@ -168,14 +181,10 @@ color: #1DA3F5;
 }
 
 
-
-
-
-
-
-
-
-
+/* .error{
+    padding:150px 0;
+    color: #333;
+} */
 
 
 

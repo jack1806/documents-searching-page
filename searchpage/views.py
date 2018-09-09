@@ -1,4 +1,5 @@
 from django.shortcuts import render,redirect
+from django.http import HttpResponse
 # from django.views.decorators.http import require_POST
 # from .models import *
 import time
@@ -15,7 +16,13 @@ from nltk.corpus import stopwords
 TEXT_STORE_LOCATION = os.path.join(settings.FILES_DIR, "scrap_data")
 DATA_STORE_LOCATION = os.path.join(settings.FILES_DIR, "dataset")
 WORDS_DATA_LOCATION = os.path.join(settings.FILES_DIR, "words_data")
+CLICKS_LOCATION = os.path.join(settings.FILES_DIR, "clicks.txt")
+PDF_INDEX_LOCATION = os.path.join(settings.FILES_DIR, "pdfindex.txt")
 # file_path = os.path.join(settings.FILES_DIR, 'test.txt')
+
+
+def click_prob(a):
+    return float(a)/(a+1)
 
 
 def homepage(request):
@@ -58,6 +65,15 @@ def search(request):
         csvfiles = doc.search("csv")
         dic = {}
 
+        indexes = [[], []]
+
+        with open(PDF_INDEX_LOCATION, 'r') as w:
+            indexes[0] = w.readline().split(" ")
+            indexes[1] = w.readline().split(" ")
+
+        with open(CLICKS_LOCATION, 'r') as clicksfile:
+            clicks = list(map(int, clicksfile.readline().split(" ")))
+
         with open(WORDS_DATA_LOCATION+"/total", 'r', encoding="utf8") as w:
             words_count = int(w.readline())
 
@@ -66,7 +82,7 @@ def search(request):
                 reader = csv.reader(f)
                 data = [list(d) for d in reader]
                 # print(data)
-                score = main_search(words, data, words_count, word_weights)
+                score = main_search(words, data, words_count, word_weights)*click_prob(clicks[int(csvData.split("/")[-1].split(".")[0])])
                 if score in dic:
                     dic[score].append(csvData)
                 else:
@@ -84,14 +100,14 @@ def search(request):
                         loc = final.readline()
                     loc = (loc.split('dataset/')[-1]).strip("\n")
                     print(loc)
-                    if not loc in finalres:
+                    if loc not in finalres:
                         finalres.append(loc)
 
         print(finalres)
-        data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken, 'lengthofres': len(finalres)}
+        data = {'query': query, 'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken, 'lengthofres': len(finalres),'error': not len(finalres)}
         return render(request, 'searchpage/searchresult.html', data)
     else:
-        return False
+        return render(request, 'searchpage/searchresult.html', {'title': 'search','error':1,'total_time_taken': '0.00', 'lengthofres': 0,'query': query})
 
 
 def proxy_dist(a, b):
@@ -118,3 +134,23 @@ def main_search(m_words, m_data, w_count, prior):
     elif m_words[0] in m_data[0]:
         m_score += float(m_data[m_data[0].index(m_words[0])+1][1])/w_count
     return m_score
+
+
+def rank(request):
+    clickednum = request.GET['clickedfile']
+
+    indexes = [[], []]
+    with open(PDF_INDEX_LOCATION, 'r') as w:
+        indexes[0] = w.readline().split(" ")
+        indexes[1] = w.readline().split(" ")
+
+    with open(CLICKS_LOCATION, 'r') as clicksfile:
+        clicks = list(map(int, clicksfile.readline().split(" ")))
+
+    choosen_index = int(indexes[0][indexes[1].index("/root/Projects/Proximity-Based-IR-System/dataset/"+clickednum)])
+    print("Index of choosen is", choosen_index)
+    clicks[choosen_index] += 1
+    with open(CLICKS_LOCATION, 'w') as w:
+        w.write(" ".join([str(i) for i in clicks]))
+
+    return HttpResponse(clickednum)

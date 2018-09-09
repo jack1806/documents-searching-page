@@ -1,380 +1,318 @@
-%,','','as,1.e,1.e.1,1.e.2,1.e.3,1.e.4,1.e.5,1.e.6,1.e.7,1.e.8,1.e.9,1.f,1.f.1,1.f.2,1.f.3,1.f.4,1.f.5,1.f.6,20,3,30,4,60,90,``,access,accessed,accordance,active,actual,additional,address,agent,agree,agreed,agreement,allow,almost,already,also,alternate,anyone,anywhere,appear,appearing,appears,applicable,archive,ascii,associated,away,based,beginning,binary,breach,calculate,calculated,certain,charge,charges,choose,clearly,codes,collection,comply,compressed,computer,con,concerning,cons,considerable,contact,contain,containing,contract,convert,copied,copies,copy,copying,copyright,corrupt,cost,costs,country,creating,da,damage,damaged,damages,data,date,days,defect,defective,defects,demand,derivative,derive,derived,described,despite,destroy,detach,different,direct,disclaim,disclaimer,disclaimers,discontinue,discover,discovered,disk,display,displayed,displaying,distribute,distributed,distributi,distributing,distribution,distributor,domain,donate,donations,downloading,e,ebook,efforts,either,elect,electro,electronic,electronically,employee,employees,enberg,entity,equential,equipment,er,errors,even,except,exclusion,expend,expense,expenses,explanation,exporting,express,f,f3,fee,fees,ffort,files,fitness,fix,following,form,format,forth,found,foundation,free,full,give,gross,group,gut,gutenberg,hart,hold,holder,however,hypertext,identify,immediate,implied,imposed,inaccurate,incidental,include,included,including,incomplete,indemnify,indemnity,indicating,indirect,individual,information,infringement,intellectual,interpreted,invalidity,kind,ks,l,law,legal,legally,li,liability,liable,license,lieu,limitation,limited,linked,links,literary,mage,mail,make,makes,marked,maximum,may,means,medium,merchantibility,method,michael,mitation,money,must,negligence,nically,nonproprietary,notice,notifies,ntence,ny,obtain,obtaining,officia,official,online,opportunities,opportunity,original,orm,outside,owed,owner,paid,paragraph,paragraphs,part,party,pay,paying,payments,perform,performed,performing,periodic,permission,permitted,person,phrase,physical,plain,possessed,possibility,posted,prepare,problem,processing,production,profit,project,prominently,promotion,proofread,property,proprietary,provide,provided,providing,provision,provisions,public,punitive,purpose,read,reasonable,receipt,receive,received,receiving,redistribute,redistributing,references,refund,remaining,remedies,remove,removed,replacement,reported,representations,request,require,required,requirements,research,restrictions,retu,return,right,rns,royalties,royalty,s/he,se,second,section,sending,sent,sentence,set,shall,site,sociated,specified,state,states,status,stored,strict,tain,tax,taxes,terms,tm,trademark,transcribe,transcription,types,unenforceability,united,unless,unlink,upon,us,use,used,user,using,vanilla,version,viewed,viewing,violates,virus,void,volunteers,warrantie,warranties,warranty,web,whatsoever,whenever,wish,within,without,wor,word,work,works,writing,written,www.gutenberg.net
-%,1,[359]
-',1,[764]
-'',10,"[57, 63, 127, 267, 271, 307, 431, 578, 580, 614]"
-'as,1,[763]
-1.e,1,[25]
-1.e.1,5,"[31, 136, 168, 229, 320]"
-1.e.2,1,[92]
-1.e.3,1,[151]
-1.e.4,1,[190]
-1.e.5,1,[210]
-1.e.6,1,[240]
-1.e.7,3,"[137, 169, 321]"
-1.e.8,3,"[149, 338, 340]"
-1.e.9,3,"[150, 339, 503]"
-1.f,1,[542]
-1.f.1,1,[543]
-1.f.2,1,[604]
-1.f.3,4,"[476, 617, 678, 760]"
-1.f.4,1,[751]
-1.f.5,1,[775]
-1.f.6,1,[817]
-20,1,[358]
-3,1,[541]
-30,1,[443]
-4,1,[422]
-60,1,[397]
-90,2,"[490, 688]"
-``,6,"[54, 60, 124, 303, 423, 610]"
-access,7,"[37, 121, 233, 259, 324, 347, 467]"
-accessed,1,[65]
-accordance,2,"[474, 837]"
-active,2,"[34, 230]"
-actual,1,[665]
-additional,3,"[170, 175, 286]"
-address,1,[419]
-agent,1,[826]
-agree,4,"[447, 645, 658, 819]"
-agreed,1,[383]
-agreement,9,"[496, 519, 636, 663, 791, 796, 797, 812, 838]"
-allow,1,[777]
-almost,1,[76]
-already,1,[371]
-also,1,[741]
-alternate,1,[309]
-anyone,3,"[73, 112, 829]"
-anywhere,1,[74]
-appear,1,[44]
-appearing,1,[129]
-appears,1,[58]
-applicable,3,"[374, 795, 806]"
-archive,5,"[390, 417, 429, 527, 621]"
-ascii,2,"[270, 306]"
-associated,3,"[128, 206, 840]"
-away,1,[82]
-based,1,[8]
-beginning,1,[188]
-binary,1,[245]
-breach,2,"[650, 652]"
-calculate,1,[373]
-calculated,1,[368]
-certain,2,"[779, 784]"
-charge,3,"[322, 342, 505]"
-charges,1,[118]
-choose,1,[729]
-clearly,1,[411]
-codes,1,[599]
-collection,1,[564]
-comply,4,"[132, 166, 336, 494]"
-compressed,1,[246]
-computer,2,"[596, 598]"
-con,1,[576]
-concerning,1,[17]
-cons,1,[668]
-considerable,1,[549]
-contact,1,[536]
-contain,1,[102]
-containing,1,[202]
-contract,1,[653]
-convert,1,[242]
-copied,2,"[69, 110]"
-copies,5,"[261, 345, 460, 468, 831]"
-copy,9,"[47, 80, 211, 292, 295, 298, 483, 719, 740]"
-copying,2,"[1, 328]"
-copyright,7,"[18, 107, 161, 173, 185, 553, 588]"
-corrupt,1,[584]
-cost,2,"[75, 287]"
-costs,1,[640]
-country,1,[21]
-creating,2,"[5, 560]"
-da,1,[600]
-damage,1,[677]
-damaged,1,[593]
-damages,4,"[608, 639, 672, 786]"
-data,1,[585]
-date,1,[400]
-days,4,"[398, 444, 491, 689]"
-defect,2,"[484, 684]"
-defective,3,"[592, 713, 742]"
-defects,1,[579]
-demand,1,[744]
-derivative,1,[6]
-derive,1,[362]
-derived,1,[99]
-described,1,[615]
-despite,1,[565]
-destroy,1,[459]
-detach,1,[192]
-different,1,[515]
-direct,1,[666]
-disclaim,1,[637]
-disclaimer,3,"[607, 787, 802]"
-disclaimers,1,[778]
-discontinue,1,[465]
-discover,1,[683]
-discovered,1,[487]
-disk,1,[594]
-display,1,[212]
-displayed,1,[66]
-displaying,3,"[2, 223, 326]"
-distribute,4,"[214, 243, 260, 507]"
-distributed,2,"[70, 111]"
-distributi,1,[498]
-distributing,4,"[4, 329, 348, 630]"
-distribution,2,"[164, 843]"
-distributor,1,[662]
-domain,2,"[101, 558]"
-donate,1,[384]
-donations,1,[425]
-downloading,1,[0]
-e,2,"[440, 550]"
-ebook,2,"[71, 89]"
-efforts,1,[566]
-either,1,[133]
-elect,1,[716]
-electro,1,[735]
-electronic,12,"[97, 157, 216, 219, 352, 485, 511, 570, 634, 685, 835, 847]"
-electronically,1,[724]
-employee,1,[827]
-employees,1,[547]
-enberg,2,"[155, 626]"
-entity,2,"[711, 726]"
-equential,1,[669]
-equipment,1,[603]
-er,1,[457]
-errors,1,[587]
-even,1,[673]
-except,3,"[609, 654, 752]"
-exclusion,1,[782]
-expend,1,[548]
-expense,1,[289]
-expenses,1,[641]
-explanation,2,"[697, 709]"
-exporting,1,[294]
-express,1,[767]
-f,1,[250]
-f3,1,[657]
-fee,6,"[288, 323, 344, 357, 376, 506]"
-fees,2,"[117, 644]"
-ffort,1,[551]
-files,1,[201]
-fitness,1,[773]
-fix,1,[749]
-following,2,"[32, 399]"
-form,2,"[256, 308]"
-format,3,"[266, 272, 310]"
-forth,6,"[147, 227, 518, 539, 758, 790]"
-found,1,[187]
-foundation,10,"[14, 391, 418, 430, 528, 537, 622, 659, 822, 828]"
-free,1,[497]
-full,7,"[38, 194, 234, 313, 433, 449, 477]"
-give,3,"[81, 674, 730]"
-gross,1,[360]
-group,1,[513]
-gut,2,"[154, 625]"
-gutenberg,37,"[11, 30, 40, 49, 56, 62, 86, 95, 126, 143, 179, 196, 208, 237, 263, 280, 315, 331, 350, 365, 380, 388, 415, 427, 451, 470, 500, 509, 525, 533, 545, 562, 568, 619, 632, 833, 845]"
-hart,1,[530]
-hold,1,[821]
-holder,4,"[108, 162, 174, 186]"
-however,1,[257]
-hypertext,1,[255]
-identify,1,[552]
-immediate,2,"[36, 232]"
-implied,2,"[768, 780]"
-imposed,1,[172]
-inaccurate,1,[583]
-incidental,1,[671]
-include,1,[312]
-included,1,[88]
-including,3,"[252, 642, 769]"
-incomplete,1,[582]
-indemnify,1,[820]
-indemnity,1,[818]
-indicating,1,[104]
-indirect,1,[667]
-individual,2,"[93, 152]"
-information,1,[424]
-infringement,1,[591]
-intellectual,1,[589]
-interpreted,1,[799]
-invalidity,1,[809]
-kind,1,[766]
-ks,1,[334]
-l,1,[278]
-law,2,"[793, 808]"
-legal,1,[643]
-legally,1,[402]
-li,1,[803]
-liability,2,"[638, 649]"
-liable,1,[664]
-license,7,"[42, 87, 181, 198, 239, 317, 453]"
-lieu,2,"[720, 737]"
-limitation,2,"[783, 788]"
-limited,5,"[581, 605, 679, 753, 770]"
-linked,1,[177]
-links,2,"[35, 231]"
-literary,5,"[389, 416, 428, 526, 620]"
-mage,1,[601]
-mail,1,[441]
-make,1,[800]
-makes,1,[15]
-marked,2,"[247, 412]"
-maximum,1,[801]
-may,8,"[79, 241, 341, 573, 575, 715, 728, 743]"
-means,2,"[293, 296]"
-medium,5,"[464, 572, 595, 704, 707]"
-merchantibility,1,[772]
-method,1,[370]
-michael,1,[529]
-mitation,1,[804]
-money,3,"[435, 479, 693]"
-must,9,"[43, 131, 165, 285, 311, 394, 454, 520, 705]"
-negligence,1,[647]
-nically,1,[736]
-nonproprietary,1,[248]
-notice,2,"[103, 675]"
-notifies,1,[438]
-ntence,1,[225]
-ny,1,[825]
-obtain,2,"[138, 521]"
-obtaining,1,[297]
-officia,1,[277]
-official,1,[274]
-online,1,[90]
-opportunities,1,[748]
-opportunity,1,[732]
-original,1,[302]
-orm,1,[251]
-outside,1,[22]
-owed,1,[377]
-owner,5,"[378, 531, 623, 661, 824]"
-paid,4,"[395, 436, 480, 694]"
-paragraph,8,"[228, 319, 337, 386, 475, 616, 656, 759]"
-paragraphs,3,"[135, 148, 167]"
-part,2,"[203, 218]"
-party,1,[629]
-pay,1,[355]
-paying,1,[116]
-payments,2,"[393, 410]"
-perform,1,[213]
-performed,1,[67]
-performing,2,"[3, 327]"
-periodic,1,[405]
-permission,5,"[106, 139, 160, 184, 522]"
-permitted,1,[805]
-person,3,"[698, 710, 725]"
-phrase,3,"[53, 59, 123]"
-physical,2,"[463, 703]"
-plain,2,"[268, 304]"
-possessed,1,[462]
-possibility,1,[676]
-posted,4,"[105, 159, 183, 276]"
-prepare,2,"[401, 404]"
-problem,1,[750]
-processing,1,[254]
-production,1,[841]
-profit,1,[361]
-project,39,"[10, 29, 39, 48, 55, 61, 85, 94, 125, 142, 153, 178, 195, 207, 236, 262, 279, 314, 330, 349, 364, 379, 387, 414, 426, 450, 469, 499, 508, 524, 532, 544, 561, 567, 618, 624, 631, 832, 844]"
-prominently,2,"[45, 222]"
-promotion,1,[842]
-proofread,1,[556]
-property,1,[590]
-proprietary,1,[249]
-provide,5,"[258, 291, 432, 473, 717]"
-provided,4,"[354, 655, 712, 762]"
-providing,4,"[120, 346, 727, 830]"
-provision,1,[811]
-provisions,1,[816]
-public,2,"[100, 557]"
-punitive,1,[670]
-purpose,1,[774]
-read,1,[602]
-reasonable,1,[343]
-receipt,2,"[445, 492]"
-receive,2,"[691, 733]"
-received,3,"[699, 701, 722]"
-receiving,1,[690]
-redistribute,1,[215]
-redistributing,1,[119]
-references,1,[28]
-refund,9,"[434, 478, 613, 682, 692, 721, 738, 745, 756]"
-remaining,1,[815]
-remedies,1,[646]
-remove,1,[193]
-removed,1,[27]
-replacement,5,"[482, 612, 681, 718, 755]"
-reported,1,[488]
-representations,1,[16]
-request,1,[300]
-require,1,[455]
-required,1,[403]
-requirements,1,[134]
-research,1,[554]
-restrictions,1,[77]
-retu,1,[407]
-return,2,"[458, 706]"
-right,3,"[611, 680, 754]"
-rns,1,[408]
-royalties,1,[385]
-royalty,3,"[356, 392, 409]"
-s/he,1,[446]
-se,1,[224]
-second,2,"[731, 739]"
-section,2,"[421, 540]"
-sending,1,[695]
-sent,1,[413]
-sentence,1,[33]
-set,6,"[146, 226, 517, 538, 757, 789]"
-shall,2,"[798, 813]"
-site,1,[283]
-sociated,1,[64]
-specified,2,"[318, 420]"
-state,2,"[794, 807]"
-states,3,"[24, 114, 776]"
-status,1,[19]
-stored,1,[574]
-strict,1,[648]
-tain,1,[577]
-tax,1,[406]
-taxes,1,[375]
-terms,8,"[84, 171, 176, 199, 235, 448, 495, 516]"
-tm,28,"[12, 41, 50, 96, 144, 156, 180, 197, 209, 238, 264, 281, 316, 332, 351, 366, 381, 452, 471, 501, 510, 534, 563, 569, 627, 633, 834, 846]"
-trademark,6,"[145, 382, 535, 628, 660, 823]"
-transcribe,1,[555]
-transcription,1,[586]
-types,1,[785]
-unenforceability,1,[810]
-united,2,"[23, 113]"
-unless,2,"[26, 335]"
-unlink,1,[191]
-upon,1,[299]
-us,1,[456]
-use,7,"[72, 83, 140, 163, 363, 372, 466]"
-used,1,[273]
-user,2,"[290, 437]"
-using,1,[369]
-vanilla,2,"[269, 305]"
-version,1,[275]
-viewed,1,[68]
-viewing,1,[325]
-violates,1,[792]
-virus,1,[597]
-void,1,[814]
-volunteers,2,"[546, 839]"
-warrantie,1,[781]
-warranties,2,"[765, 771]"
-warranty,2,"[606, 651]"
-web,1,[282]
-whatsoever,1,[78]
-whenever,1,[46]
-wish,1,[504]
-within,4,"[396, 442, 489, 687]"
-without,3,"[115, 221, 747]"
-wor,1,[333]
-word,1,[253]
-work,32,"[9, 13, 20, 51, 52, 98, 109, 122, 130, 141, 158, 189, 200, 204, 205, 217, 220, 244, 265, 301, 481, 486, 493, 512, 635, 686, 700, 702, 714, 723, 734, 761]"
-works,12,"[7, 182, 353, 367, 461, 472, 502, 514, 559, 571, 836, 848]"
-writing,3,"[439, 523, 746]"
-written,2,"[696, 708]"
-www.gutenberg.net,2,"[91, 284]"
+!,'',***,*****,--,//gutenberg.net/license,//www.gutenberg.net/1/5/1/4/15147/,1,1.a,1.b,1.c,1.d,1.e,1.e.8,13,14,148,15147.txt,15147.zip,16,163,164,168,17,170,171,172,173,19,191,195,196,200,206,27,272,278,279,282,286,3,330,331,43,453,456,457,458,459,460,545,571,572,``,abide,accept,access,addition,agree,agreement,also,anything,applique,apply,archive,associated,attached,available,away,bag,barkley,based,basket,beads,beeton,bird,bodices,book,border,bound,c,case,ce,cease,centre,change,charge,check,chemise,claim,collection,commercial,compilation,compliance,comply,complying,concept,constant,copies,copy,copying,copyright,countries,country,course,cover,covered,creating,creation,crochet,crochet*,cushion,d'art,derivative,dery,destroy,displaying,distribute,distributed,distributing,distribution,domain,duced,easily,easy,ebook,ebooks,editions,electroni,electronic,embroi,embroidered,embroidery,end,english,entity,erg,especially,even,fee,file,files,flowers,follow,format,formats,forth,found,foundation,free,freely,full,future,general,given,govern,gree,gu,guipure,gutenb,gutenberg,hammock,help,hope,http,indicate,individual,ing,insertion,intellectual,isabella,julie,keeping,knitted,lace,lady,laws,license,literary,located,long,lot,mat,may,means,mechlin,mission,modified,must,name,named,nearly,needlework,net,ntres,obtain,obtaining,old,one,online,others,owns,pa,paid,paper,paragraph,part,patterns,paying,people,performances,performing,permission,person,pg,pglaf,phrase,pin,place,plain,please,po,point,possession,pouch,practically,preserve,prevent,previous,print,printed,pro,project,promoting,proofreading,property,protect,public,purpose,ragraph,raised,read,reading,receive,redistributing,redistribution,references,refund,registered,removed,renamed,replace,reports,research,return,ribbon,right,rosette,rosettes,royalties,rules,section,sed,see,set,shape,share,sharing,silk,sorrento,special,specific,start,state,states,straw,subject,support,tatting,team,tenberg,terms,things,tm,tobacco,toilet,trademark,trademark/copyright,tramming,travelling,trimming,u,uch,understand,united,unless,updated,use,used,using,utside,various,veil,veils,velvet,venetian,waste,way,wheels,white,wide,wing,without,work,worked,works,wreath
+!,1,[208]
+'',3,"[327, 418, 480]"
+***,4,"[154, 162, 292, 296]"
+*****,2,"[163, 168]"
+--,2,"[190, 278]"
+//gutenberg.net/license,1,[340]
+//www.gutenberg.net/1/5/1/4/15147/,1,[175]
+1,1,[342]
+1.a,1,[352]
+1.b,1,[414]
+1.c,2,"[447, 472]"
+1.d,1,[570]
+1.e,1,[471]
+1.e.8,1,[413]
+13,1,[11]
+14,1,[3]
+148,1,[145]
+15147.txt,1,[166]
+15147.zip,1,[167]
+16,1,[65]
+163,1,[22]
+164,1,[26]
+168,1,[38]
+17,1,[66]
+170,1,[56]
+171,1,[32]
+172,2,"[33, 112]"
+173,1,[34]
+19,1,[70]
+191,1,[80]
+195,1,[84]
+196,1,[85]
+200,1,[116]
+206,1,[75]
+27,1,[130]
+272,1,[129]
+278,1,[16]
+279,1,[17]
+282,1,[47]
+286,1,[52]
+3,1,[131]
+330,1,[59]
+331,1,[60]
+43,1,[7]
+453,1,[97]
+456,2,"[103, 107]"
+457,2,"[104, 108]"
+458,1,[92]
+459,1,[95]
+460,1,[101]
+545,1,[122]
+571,1,[136]
+572,1,[137]
+``,3,"[323, 415, 478]"
+abide,1,[373]
+accept,1,[365]
+access,3,"[392, 462, 534]"
+addition,1,[590]
+agree,4,"[328, 364, 399, 429]"
+agreement,9,"[371, 375, 402, 432, 444, 457, 544, 555, 592]"
+also,1,[575]
+anything,2,"[256, 281]"
+applique,1,[44]
+apply,1,[228]
+archive,1,[476]
+associated,4,"[169, 320, 424, 550]"
+attached,1,[559]
+available,1,[336]
+away,1,[277]
+bag,2,"[36, 114]"
+barkley,1,[179]
+based,1,[518]
+basket,3,"[78, 118, 124]"
+beads,1,[9]
+beeton,3,"[149, 153, 159]"
+bird,1,[110]
+bodices,1,[55]
+book,2,"[150, 160]"
+border,2,"[10, 72]"
+bound,2,"[400, 430]"
+c,1,[397]
+case,1,[133]
+ce,1,[99]
+cease,1,[377]
+centre,1,[140]
+change,1,[583]
+charge,3,"[249, 255, 568]"
+check,1,[587]
+chemise,1,[50]
+claim,1,[508]
+collection,2,"[485, 494]"
+commercial,1,[290]
+compilation,1,[483]
+compliance,1,[542]
+comply,2,"[329, 553]"
+complying,2,"[259, 441]"
+concept,1,[241]
+constant,1,[581]
+copies,2,"[257, 381]"
+copy,3,"[209, 229, 391]"
+copying,1,[511]
+copyright,5,"[205, 217, 484, 571, 578]"
+countries,1,[580]
+country,1,[589]
+course,1,[525]
+cover,1,[29]
+covered,1,[119]
+creating,2,"[194, 515]"
+creation,1,[267]
+crochet,3,"[14, 40, 51]"
+crochet*,1,[127]
+cushion,2,"[28, 142]"
+d'art,2,"[121, 135]"
+derivative,2,"[268, 516]"
+dery,1,[74]
+destroy,1,[380]
+displaying,1,[514]
+distribute,2,"[210, 303]"
+distributed,1,[182]
+distributing,3,"[231, 317, 512]"
+distribution,1,[313]
+domain,4,"[197, 283, 496, 502]"
+duced,1,[177]
+easily,1,[552]
+easy,1,[261]
+ebook,3,"[158, 258, 264]"
+ebooks,2,"[250, 284]"
+editions,3,"[186, 192, 199]"
+electroni,1,[396]
+electronic,11,"[235, 314, 350, 359, 385, 426, 437, 453, 466, 489, 535]"
+embroi,1,[73]
+embroidered,2,"[41, 81]"
+embroidery,9,"[21, 25, 31, 37, 54, 79, 111, 115, 139]"
+end,2,"[146, 155]"
+english,2,"[90, 93]"
+entity,1,[407]
+erg,1,[326]
+especially,1,[289]
+even,1,[439]
+fee,2,"[389, 409]"
+file,2,"[164, 337]"
+files,1,[170]
+flowers,1,[42]
+follow,1,[455]
+format,1,[558]
+formats,1,[172]
+forth,2,"[222, 411]"
+found,1,[173]
+foundation,3,"[207, 477, 479]"
+free,3,"[312, 460, 533]"
+freely,1,[537]
+full,5,"[294, 297, 331, 442, 560]"
+future,1,[461]
+general,2,"[223, 343]"
+given,1,[276]
+govern,1,[576]
+gree,1,[372]
+gu,1,[562]
+guipure,2,"[120, 134]"
+gutenb,1,[325]
+gutenberg,22,"[148, 157, 233, 239, 244, 299, 308, 333, 348, 357, 383, 394, 417, 435, 451, 464, 474, 487, 523, 529, 540, 547]"
+hammock,1,[83]
+help,1,[458]
+hope,1,[526]
+http,2,"[174, 339]"
+indicate,1,[361]
+individual,2,"[492, 499]"
+ing,1,[230]
+insertion,2,"[2, 6]"
+intellectual,1,[368]
+isabella,1,[152]
+julie,1,[178]
+keeping,2,"[545, 556]"
+knitted,1,[58]
+lace,1,[89]
+lady,2,"[49, 62]"
+laws,3,"[572, 579, 588]"
+license,7,"[227, 288, 295, 300, 335, 367, 565]"
+literary,1,[475]
+located,2,"[505, 574]"
+long,1,[520]
+lot,1,[448]
+mat,1,[144]
+may,6,"[247, 262, 273, 279, 403, 421]"
+means,1,[200]
+mechlin,1,[96]
+mission,2,"[310, 531]"
+modified,1,[274]
+must,1,[376]
+name,1,[549]
+named,1,[165]
+nearly,2,"[265, 491]"
+needlework,2,"[151, 161]"
+net,1,[63]
+ntres,1,[100]
+obtain,1,[404]
+obtaining,1,[390]
+old,1,[191]
+one,2,"[189, 201]"
+online,2,"[181, 338]"
+others,1,[569]
+owns,2,"[202, 482]"
+pa,1,[469]
+paid,2,"[388, 408]"
+paper,1,[77]
+paragraph,2,"[412, 446]"
+part,2,"[226, 355]"
+patterns,1,[68]
+paying,1,[216]
+people,1,[428]
+performances,1,[271]
+performing,1,[513]
+permission,2,"[214, 254]"
+person,1,[406]
+pg,1,[180]
+pglaf,1,[481]
+phrase,1,[322]
+pin,1,[141]
+place,1,[573]
+plain,1,[91]
+please,1,[301]
+po,1,[19]
+point,1,[88]
+possession,1,[387]
+pouch,2,"[13, 24]"
+practically,1,[280]
+preserve,1,[459]
+prevent,1,[510]
+previous,1,[188]
+print,1,[198]
+printed,1,[275]
+pro,1,[176]
+project,24,"[147, 156, 232, 238, 243, 298, 307, 324, 332, 347, 356, 382, 393, 416, 434, 450, 463, 473, 486, 522, 528, 539, 546, 561]"
+promoting,2,"[311, 532]"
+proofreading,1,[183]
+property,1,[369]
+protect,2,"[237, 306]"
+public,4,"[196, 282, 495, 501]"
+purpose,1,[266]
+ragraph,1,[470]
+raised,1,[94]
+read,2,"[302, 362]"
+reading,1,[353]
+receive,1,[252]
+redistributing,1,[346]
+redistribution,2,"[285, 291]"
+references,1,[521]
+refund,1,[405]
+registered,2,"[245, 419]"
+removed,1,[524]
+renamed,1,[193]
+replace,1,[187]
+reports,1,[270]
+research,1,[272]
+return,1,[379]
+ribbon,1,[46]
+right,1,[509]
+rosette,1,[98]
+rosettes,2,"[87, 106]"
+royalties,1,[218]
+rules,2,"[220, 260]"
+section,1,[341]
+sed,1,[423]
+see,2,"[445, 468]"
+set,2,"[221, 410]"
+shape,1,[82]
+share,1,[566]
+sharing,1,[538]
+silk,1,[126]
+sorrento,1,[102]
+special,1,[219]
+specific,1,[253]
+start,1,[293]
+state,1,[582]
+states,6,"[204, 212, 498, 504, 507, 586]"
+straw,1,[125]
+subject,1,[286]
+support,1,[527]
+tatting,5,"[0, 4, 8, 64, 69]"
+team,1,[184]
+tenberg,1,[563]
+terms,12,"[224, 330, 344, 366, 374, 401, 431, 443, 456, 543, 554, 591]"
+things,2,"[433, 449]"
+tm,15,"[234, 240, 309, 334, 349, 358, 384, 395, 436, 452, 465, 488, 530, 548, 564]"
+tobacco,3,"[12, 18, 23]"
+toilet,2,"[27, 143]"
+trademark,4,"[242, 246, 287, 420]"
+trademark/copyright,1,[370]
+tramming,1,[48]
+travelling,1,[35]
+trimming,2,"[39, 53]"
+u,1,[422]
+uch,1,[20]
+understand,1,[363]
+united,6,"[203, 211, 497, 503, 506, 585]"
+unless,1,[251]
+updated,1,[185]
+use,4,"[225, 263, 304, 345]"
+used,1,[248]
+using,3,"[316, 354, 378]"
+utside,1,[584]
+various,1,[171]
+veil,2,"[57, 61]"
+veils,1,[67]
+velvet,1,[45]
+venetian,1,[71]
+waste,1,[76]
+way,2,"[321, 425]"
+wheels,2,"[86, 105]"
+white,1,[30]
+wide,2,"[1, 5]"
+wing,1,[109]
+without,4,"[213, 215, 440, 567]"
+work,17,"[15, 113, 117, 123, 128, 132, 305, 318, 319, 360, 398, 427, 500, 519, 551, 557, 577]"
+worked,1,[43]
+works,15,"[195, 206, 236, 269, 315, 351, 386, 438, 454, 467, 490, 493, 517, 536, 541]"
+wreath,1,[138]

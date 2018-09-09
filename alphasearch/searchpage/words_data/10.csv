@@ -1,226 +1,268 @@
-&,--,1,10,10th,12,13,13th,16,1st,2,20,21,24,250,251,252,253,2nd,3,3rd,4,40,4th,5,5th,6,60,6th,7,7th,8,8th,9,_,_250,_crochet,according,added,aking,alternately,always,arranged,article,articles,back,begin,behind,black,boar,boar's,border,border_,bottom,c.,calico,centre,ch,chain,children,circle,circles,clos,close,clothes,clover,co.,coarse,completed,consisting,continue,converted,cotton,counterpanes,couvrette,couvrette._,couvrettes,covers,crochet,crocheted,curtains,cushion,cut,daisy,decreasing,description,design,divided,dot,doubl,double,e,effect,either,employed,end,enough,entirely,evans,every,fasten,figure,fine,firmer,first,flowers,following,form,formed,foundation,four,g,glazed,good,gradually,great,h,head,horsehair,illustration,inse,insert,inserting,join,joined,lace,large,last,latter,leaf,lightest,like,lined,long,loop,made,make,many,material,materials,mats,may,messrs.,middle,miss,nd,needle,next,one,others,part,parts,pas,pat,pattern,petal,petals,pincushion,pincushions,place,plain,point,precedin,preceding,produces,purl,purposes,raised,rceaunette,red,regularly,repeat,required,round,row,rows,rt,scallop,separately,shade,shown,side,silk,size,slip,small,spot,spots,stand,stem,stitc,stitch,stitched,stitches,stuffed,sufficiently,suitable,teboard,terns,th,thick,things,thousand,thus,till,times,together,top,treble,trefoil,trimming,turn,two,underneath,upper,used,useful,variety,walter,white,wide,wool,work,worked,working
-&,1,[504]
---,8,"[53, 98, 302, 392, 462, 478, 724, 728]"
-1,55,"[3, 148, 170, 174, 197, 202, 233, 242, 250, 259, 271, 335, 339, 342, 347, 359, 362, 370, 379, 384, 406, 420, 437, 449, 533, 537, 539, 541, 545, 550, 560, 591, 604, 653, 659, 672, 676, 682, 690, 698, 702, 706, 713, 751, 758, 770, 775, 784, 789, 796, 805, 812, 821, 838, 840]"
-10,2,"[589, 595]"
-10th,1,[639]
-12,3,"[218, 281, 472]"
-13,1,[624]
-13th,1,[0]
-16,2,"[78, 473]"
-1st,12,"[133, 140, 237, 328, 361, 512, 519, 529, 548, 679, 749, 814]"
-2,15,"[179, 212, 225, 408, 425, 514, 526, 573, 670, 680, 688, 692, 700, 704, 780]"
-20,1,[79]
-21,1,[5]
-24,2,"[474, 738]"
-250,1,[97]
-251,2,"[301, 391]"
-252,2,"[461, 477]"
-253,2,"[723, 727]"
-2nd,4,"[145, 333, 661, 755]"
-3,30,"[125, 168, 354, 373, 374, 376, 382, 397, 401, 412, 415, 429, 433, 439, 445, 517, 524, 616, 620, 711, 719, 764, 792, 801, 822, 825, 828, 830, 833, 842]"
-3rd,6,"[188, 265, 345, 350, 558, 768]"
-4,9,"[128, 543, 599, 614, 622, 818, 835, 845, 855]"
-40,3,"[313, 475, 739]"
-4th,7,"[210, 387, 395, 453, 571, 635, 782]"
-5,17,"[183, 220, 227, 238, 240, 246, 248, 263, 269, 276, 357, 535, 569, 618, 648, 665, 674]"
-5th,7,"[139, 223, 423, 454, 594, 602, 794]"
-6,2,"[186, 257]"
-60,2,"[314, 740]"
-6th,3,"[230, 643, 803]"
-7,4,"[576, 610, 655, 760]"
-7th,2,"[657, 810]"
-8,4,"[68, 114, 141, 851]"
-8th,1,[847]
-9,2,"[152, 158]"
-_,1,[305]
-_250,1,[52]
-_crochet,3,"[303, 463, 729]"
-according,2,"[486, 741]"
-added,1,[297]
-aking,1,[185]
-alternately,2,"[456, 757]"
-always,1,[130]
-arranged,1,[94]
-article,1,[742]
-articles,1,[74]
-back,2,"[191, 205]"
-begin,1,[111]
-behind,1,[194]
-black,1,[34]
-boar,1,[75]
-boar's,1,[65]
-border,4,"[458, 480, 481, 726]"
-border_,2,"[464, 730]"
-bottom,1,[48]
-c.,1,[505]
-calico,1,[42]
-centre,5,"[36, 112, 236, 244, 274]"
-ch,2,"[562, 656]"
-chain,57,"[115, 126, 134, 138, 142, 153, 159, 221, 228, 239, 241, 247, 249, 258, 264, 270, 277, 326, 340, 358, 510, 518, 521, 540, 544, 551, 554, 570, 577, 590, 600, 611, 617, 621, 662, 671, 675, 681, 685, 689, 693, 696, 701, 705, 709, 712, 720, 747, 753, 761, 781, 793, 802, 819, 836, 843, 856]"
-children,1,[500]
-circle,2,"[22, 103]"
-circles,2,"[288, 296]"
-clos,1,[20]
-close,2,"[143, 165]"
-clothes,1,[501]
-clover,3,"[630, 651, 668]"
-co.,4,"[64, 310, 469, 735]"
-coarse,1,[490]
-completed,1,[10]
-consisting,1,[356]
-continue,1,[11]
-converted,1,[83]
-cotton,10,"[67, 77, 207, 312, 321, 471, 488, 491, 498, 737]"
-counterpanes,1,[86]
-couvrette,4,"[60, 102, 286, 300]"
-couvrette._,1,[57]
-couvrettes,2,"[87, 494]"
-covers,2,"[70, 496]"
-crochet,15,"[56, 101, 151, 166, 181, 204, 214, 235, 273, 311, 393, 470, 479, 725, 736]"
-crocheted,1,[110]
-curtains,1,[503]
-cushion,2,"[29, 37]"
-cut,1,[206]
-daisy,2,"[54, 99]"
-decreasing,1,[18]
-description,2,"[81, 89]"
-design,1,[95]
-divided,4,"[411, 428, 516, 575]"
-dot,1,[35]
-doubl,1,[149]
-double,31,"[6, 16, 180, 203, 213, 234, 272, 331, 360, 375, 398, 417, 434, 440, 534, 538, 574, 654, 660, 683, 699, 707, 714, 752, 759, 772, 776, 785, 786, 797, 806]"
-e,5,"[21, 150, 216, 367, 442]"
-effect,1,[318]
-either,1,[564]
-employed,1,[489]
-end,2,"[208, 279]"
-enough,1,[460]
-entirely,1,[330]
-evans,4,"[63, 309, 468, 734]"
-every,1,[88]
-fasten,1,[634]
-figure,1,[642]
-fine,2,"[320, 497]"
-firmer,1,[51]
-first,3,"[119, 579, 645]"
-flowers,1,[25]
-following,4,"[377, 717, 824, 832]"
-form,2,"[597, 629]"
-formed,2,"[609, 854]"
-foundation,4,"[325, 509, 520, 746]"
-four,1,[549]
-g,1,[404]
-glazed,1,[41]
-good,1,[317]
-gradually,1,[23]
-great,1,[483]
-h,1,[253]
-head,2,"[66, 76]"
-horsehair,1,[39]
-illustration,5,"[96, 291, 390, 476, 722]"
-inse,1,[116]
-insert,1,[583]
-inserting,1,[131]
-join,2,"[136, 287]"
-joined,1,[106]
-lace,3,"[304, 315, 394]"
-large,1,[59]
-last,7,"[108, 137, 192, 200, 231, 293, 646]"
-latter,1,[763]
-leaf,3,"[631, 652, 669]"
-lightest,1,[13]
-like,1,[72]
-lined,1,[40]
-long,9,"[121, 324, 348, 363, 385, 409, 426, 508, 745]"
-loop,2,"[598, 626]"
-made,2,"[104, 164]"
-make,8,"[49, 113, 120, 124, 196, 322, 492, 506]"
-many,2,"[84, 295]"
-material,1,[465]
-materials,3,"[58, 306, 731]"
-mats,2,"[71, 90]"
-may,1,[298]
-messrs.,4,"[61, 307, 466, 732]"
-middle,9,"[399, 414, 431, 443, 606, 649, 666, 715, 777]"
-miss,12,"[173, 341, 372, 381, 523, 552, 694, 762, 820, 827, 837, 844]"
-nd,1,[527]
-needle,3,"[118, 132, 584]"
-next,10,"[245, 275, 337, 400, 416, 432, 444, 553, 684, 708]"
-one,1,[695]
-others,1,[107]
-part,1,[28]
-parts,1,[587]
-pas,1,[45]
-pat,1,[283]
-pattern,6,"[7, 19, 55, 80, 100, 632]"
-petal,3,"[198, 199, 222]"
-petals,4,"[33, 187, 195, 219]"
-pincushion,1,[69]
-pincushions,1,[91]
-place,2,"[262, 268]"
-plain,1,[27]
-point,2,"[172, 217]"
-precedin,1,[403]
-preceding,18,"[176, 352, 368, 418, 435, 447, 531, 567, 581, 612, 627, 641, 766, 773, 787, 799, 808, 816]"
-produces,1,[316]
-purl,16,"[355, 371, 380, 402, 407, 413, 421, 430, 438, 446, 450, 542, 566, 673, 691, 703]"
-purposes,2,"[85, 485]"
-raised,1,[8]
-rceaunette,1,[495]
-red,1,[15]
-regularly,1,[850]
-repeat,16,"[127, 182, 229, 278, 344, 389, 422, 451, 452, 525, 557, 601, 633, 721, 846, 849]"
-required,2,"[299, 743]"
-round,13,"[1, 43, 144, 146, 161, 189, 209, 211, 224, 232, 280, 285, 294]"
-row,41,"[109, 177, 193, 201, 329, 334, 346, 353, 369, 396, 405, 419, 424, 436, 448, 513, 528, 532, 559, 568, 572, 582, 603, 613, 628, 644, 658, 750, 756, 767, 769, 774, 783, 788, 795, 800, 804, 809, 811, 817, 848]"
-rows,1,[455]
-rt,1,[117]
-scallop,9,"[530, 556, 608, 664, 687, 697, 718, 779, 853]"
-separately,1,[105]
-shade,2,"[2, 14]"
-shown,1,[290]
-side,1,[565]
-silk,1,[32]
-size,1,[487]
-slip,9,"[156, 251, 260, 266, 546, 592, 605, 637, 677]"
-small,2,"[73, 502]"
-spot,1,[4]
-spots,1,[9]
-stand,1,[50]
-stem,1,[162]
-stitc,1,[252]
-stitch,32,"[123, 135, 157, 175, 256, 261, 267, 332, 338, 343, 351, 365, 388, 522, 547, 555, 563, 588, 593, 607, 638, 647, 663, 678, 686, 710, 716, 754, 778, 807, 815, 839]"
-stitched,1,[47]
-stitches,10,"[17, 169, 378, 383, 596, 625, 765, 826, 829, 834]"
-stuffed,1,[38]
-sufficiently,3,"[323, 507, 744]"
-suitable,1,[482]
-teboard,1,[46]
-terns,1,[284]
-th,3,"[215, 366, 441]"
-thick,1,[44]
-things,1,[93]
-thousand,1,[92]
-thus,1,[163]
-till,1,[457]
-times,2,"[129, 184]"
-together,1,[289]
-top,1,[254]
-treble,30,"[122, 226, 243, 255, 336, 349, 364, 386, 410, 427, 515, 536, 561, 580, 615, 619, 623, 636, 640, 650, 667, 771, 790, 791, 798, 813, 823, 831, 841, 852]"
-trefoil,1,[282]
-trimming,1,[493]
-turn,2,"[154, 171]"
-two,1,[578]
-underneath,1,[585]
-upper,1,[586]
-used,1,[499]
-useful,1,[82]
-variety,1,[484]
-walter,4,"[62, 308, 467, 733]"
-white,2,"[24, 30]"
-wide,1,[459]
-wool,1,[31]
-work,9,"[12, 147, 155, 160, 178, 190, 327, 511, 748]"
-worked,2,"[26, 319]"
-working,2,"[167, 292]"
+$,--,0,"1,8102,017",2.6,200,2011,201120122014201620182020total,2012,2013,3,3.1,30,31,40,400,6,931000,abillions,account,account86165555,ace,addition,affect,agency,agreements1007070707070,aig000000,also,alternativ,alternative,alternatives,amounts,announced,appropriate,approxima,approximate,approximately,asset-backed,assets171205183154130117,assets171227206169138120,"assets2,9212,8382,7001,954","assets2,9213,2423,1992,272",assetsliquidity,associated,attainment,au,b,balance,balances,bank,"banks1,7131,5791,2873643030","banks1,7131,9821,7866833030",bbillions,began,billion,c,calculations,capital546282108143189,central,"circulation1,0341,1111,2451,3961,5511,712",co,comm,committee,comp,complete,components,conditions,consistent,continue,correspond,could,credit,credit000000,ction,current,debt,december,depository,deposits,deposits6500000,der,desk,developments,directive,directives,directs,dollar,dollarsdec,domestic,draft,drafts,due,dueto,e,easury,either,employment,end,engage,execute,existing,extended,extension,f,face,facilitate,facilities931000,facility,february,federal,financial,firms10000000,followed,foster,funds,general,given,growth,h.4.1,held,holdings,ii,iii,informed,ing,"institutions1,5621,5631,2823592525","institutions1,5621,9671,7816782525",institutions3429211174,instruct,instructed,interest,issued,issues,ities,ittee™s,january,june,keep,lane,last,leave,lending,less,lete,"liabilities2,8672,7762,6181,8461,6671,828","liabilities2,8673,1803,1172,1641,6671,828",liabilitiesfederal,limit,liquidity,llc,llc111000,llc3429211174,loan,long-run,ly,maiden,maintain,manager,market,markets,maturing,maturities,maturity,maximum,may,mbs,mmittee,mone,month,mortgage-backed,necessary,net,new,note,notes,objectives,ongoing,open,operations,order,otherwise,output,"outright2,6052,6002,4951,7891,6731,896","outright2,6052,9822,9702,0921,6651,893",payments,per,percent,policies,policy,portfolio,practice,price,primary,principal,program,programs,projections,promote,purchase,purchases,raise,range,regard,reinvesting,releases,remaining,repurchase,rese,reserve,reserve™s,reverse,roll,rolling,rounding,rounding.federal,rve,sales,seasonal,secondary,secretary,secur,securities,"securities1,6631,6511,6001,2321,3381,893","securities1,6631,6511,6001,2321,4621,896",securities10477391620,"securities8381,2551,3318433240",securities8388738565402080,seeks,selected,sell,september,settlement,sheet,sheetend-of-year,soma,source,specific,stability,staff,statistical,steps,sum,support,sustainable,swaps10000000,system,system™s,take,talf,tary,tely,term,time,total,totals,tr,trading,transactions,treasury,treasury200000,trillion,u.s.,unchanged,value,would,years,¼
+$,7,"[46, 64, 85, 108, 200, 214, 255]"
+--,2,"[305, 427]"
+0,1,[170]
+"1,8102,017",2,"[312, 434]"
+2.6,1,[256]
+200,1,[109]
+2011,1,[139]
+201120122014201620182020total,2,"[310, 432]"
+2012,2,"[84, 186]"
+2013,1,[51]
+3,1,[208]
+3.1,1,[47]
+30,1,[195]
+31,2,"[309, 431]"
+40,1,[65]
+400,3,"[86, 201, 215]"
+6,1,[193]
+931000,2,"[335, 457]"
+abillions,1,[307]
+account,2,"[242, 276]"
+account86165555,2,"[397, 519]"
+ace,1,[41]
+addition,1,[71]
+affect,1,[290]
+agency,13,"[35, 53, 132, 134, 136, 234, 236, 243, 270, 362, 365, 484, 487]"
+agreements1007070707070,2,"[384, 506]"
+aig000000,2,"[341, 463]"
+also,1,[218]
+alternativ,1,[26]
+alternative,4,"[13, 95, 306, 428]"
+alternatives,2,"[11, 73]"
+amounts,1,[101]
+announced,1,[91]
+appropriate,1,[79]
+approxima,1,[191]
+approximate,1,[253]
+approximately,1,[63]
+asset-backed,2,"[330, 452]"
+assets171205183154130117,1,[496]
+assets171227206169138120,1,[374]
+"assets2,9212,8382,7001,954",1,[433]
+"assets2,9213,2423,1992,272",1,[311]
+assetsliquidity,2,"[314, 436]"
+associated,1,[104]
+attainment,1,[291]
+au,1,[127]
+b,2,"[14, 74]"
+balance,3,"[287, 302, 424]"
+balances,2,"[390, 512]"
+bank,2,"[323, 445]"
+"banks1,7131,5791,2873643030",1,[510]
+"banks1,7131,9821,7866833030",1,[388]
+bbillions,1,[429]
+began,1,[181]
+billion,5,"[66, 87, 110, 202, 216]"
+c,1,[96]
+calculations,2,"[415, 537]"
+capital546282108143189,2,"[407, 529]"
+central,2,"[322, 444]"
+"circulation1,0341,1111,2451,3961,5511,712",2,"[381, 503]"
+co,1,[173]
+comm,1,[293]
+committee,6,"[28, 144, 159, 217, 258, 280]"
+comp,1,[111]
+complete,1,[81]
+components,2,"[417, 539]"
+conditions,2,"[149, 161]"
+consistent,1,[165]
+continue,2,"[120, 177]"
+correspond,1,[9]
+could,1,[289]
+credit,4,"[327, 339, 449, 461]"
+credit000000,2,"[321, 443]"
+ction,1,[128]
+current,1,[121]
+debt,4,"[133, 235, 363, 485]"
+december,2,"[3, 138]"
+depository,2,"[392, 514]"
+deposits,2,"[385, 507]"
+deposits6500000,2,"[398, 520]"
+der,1,[37]
+desk,8,"[15, 31, 77, 99, 119, 176, 220, 260]"
+developments,1,[283]
+directive,6,"[0, 1, 8, 12, 94, 140]"
+directives,2,"[72, 117]"
+directs,3,"[175, 219, 259]"
+dollar,1,[262]
+dollarsdec,2,"[308, 430]"
+domestic,4,"[22, 43, 60, 251]"
+draft,1,[116]
+drafts,1,[6]
+due,2,"[421, 543]"
+dueto,2,"[403, 525]"
+e,1,[27]
+easury,1,[227]
+either,1,[32]
+employment,1,[297]
+end,4,"[49, 82, 114, 184]"
+engage,1,[261]
+execute,1,[33]
+existing,1,[222]
+extended,2,"[340, 462]"
+extension,3,"[89, 106, 179]"
+f,1,[40]
+face,5,"[20, 57, 198, 212, 249]"
+facilitate,1,[266]
+facilities931000,2,"[328, 450]"
+facility,2,"[333, 455]"
+february,1,[115]
+federal,10,"[141, 166, 268, 300, 386, 400, 409, 508, 522, 531]"
+financial,3,"[148, 316, 438]"
+firms10000000,2,"[317, 439]"
+followed,1,[5]
+foster,1,[150]
+funds,1,[167]
+general,2,"[396, 518]"
+given,1,[4]
+growth,1,[155]
+h.4.1,2,"[411, 533]"
+held,4,"[357, 391, 479, 513]"
+holdings,6,"[45, 59, 344, 370, 466, 492]"
+ii,2,"[350, 472]"
+iii,2,"[354, 476]"
+informed,1,[281]
+ing,1,[285]
+"institutions1,5621,5631,2823592525",1,[515]
+"institutions1,5621,9671,7816782525",1,[393]
+institutions3429211174,2,"[338, 460]"
+instruct,4,"[30, 76, 98, 118]"
+instructed,2,"[17, 69]"
+interest,2,"[399, 521]"
+issued,1,[2]
+issues,1,[230]
+ities,1,[62]
+ittee™s,1,[294]
+january,2,"[7, 50]"
+june,2,"[83, 185]"
+keep,1,[279]
+lane,6,"[346, 349, 353, 468, 471, 475]"
+last,1,[92]
+leave,1,[18]
+lending,2,"[326, 448]"
+less,1,[210]
+lete,1,[112]
+"liabilities2,8672,7762,6181,8461,6671,828",1,[498]
+"liabilities2,8673,1803,1172,1641,6671,828",1,[376]
+liabilitiesfederal,2,"[378, 500]"
+limit,1,[100]
+liquidity,2,"[324, 446]"
+llc,4,"[347, 351, 469, 473]"
+llc111000,2,"[372, 494]"
+llc3429211174,2,"[355, 477]"
+loan,2,"[332, 454]"
+long-run,1,[157]
+ly,1,[254]
+maiden,6,"[345, 348, 352, 467, 470, 474]"
+maintain,2,"[221, 247]"
+manager,1,[277]
+market,3,"[143, 241, 275]"
+markets,1,[164]
+maturing,2,"[124, 225]"
+maturities,2,"[190, 207]"
+maturity,3,"[88, 105, 178]"
+maximum,1,[296]
+may,2,"[418, 540]"
+mbs,5,"[36, 54, 135, 137, 271]"
+mmittee,1,[174]
+mone,1,[146]
+month,1,[68]
+mortgage-backed,4,"[237, 244, 366, 488]"
+necessary,1,[265]
+net,4,"[342, 368, 464, 490]"
+new,1,[229]
+note,2,"[416, 538]"
+notes,4,"[380, 402, 502, 524]"
+objectives,2,"[158, 295]"
+ongoing,1,[282]
+open,3,"[142, 240, 274]"
+operations,1,[113]
+order,2,"[55, 246]"
+otherwise,1,[70]
+output,1,[156]
+"outright2,6052,6002,4951,7891,6731,896",1,[480]
+"outright2,6052,9822,9702,0921,6651,893",1,[358]
+payments,2,"[131, 233]"
+per,1,[67]
+percent,1,[172]
+policies,1,[223]
+policy,1,[10]
+portfolio,4,"[343, 369, 465, 491]"
+practice,1,[122]
+price,2,"[151, 298]"
+primary,2,"[318, 440]"
+principal,2,"[130, 232]"
+program,3,"[90, 107, 180]"
+programs,2,"[315, 437]"
+projections,2,"[304, 426]"
+promote,1,[153]
+purchase,2,"[52, 183]"
+purchases,2,"[34, 102]"
+raise,2,"[38, 56]"
+range,1,[169]
+regard,1,[284]
+reinvesting,2,"[129, 231]"
+releases,2,"[413, 535]"
+remaining,2,"[189, 206]"
+repurchase,2,"[383, 505]"
+rese,1,[162]
+reserve,12,"[301, 379, 387, 389, 401, 410, 423, 501, 509, 511, 523, 532]"
+reserve™s,1,[269]
+reverse,2,"[382, 504]"
+roll,1,[263]
+rolling,2,"[123, 224]"
+rounding,1,[544]
+rounding.federal,1,[422]
+rve,1,[163]
+sales,1,[103]
+seasonal,2,"[320, 442]"
+secondary,2,"[319, 441]"
+secretary,1,[278]
+secur,1,[61]
+securities,13,"[23, 44, 126, 188, 205, 228, 238, 245, 252, 331, 356, 453, 478]"
+"securities1,6631,6511,6001,2321,3381,893",1,[361]
+"securities1,6631,6511,6001,2321,4621,896",1,[483]
+securities10477391620,2,"[364, 486]"
+"securities8381,2551,3318433240",1,[367]
+securities8388738565402080,1,[489]
+seeks,2,"[145, 160]"
+selected,4,"[313, 377, 435, 499]"
+sell,1,[203]
+september,2,"[93, 182]"
+settlement,1,[267]
+sheet,1,[288]
+sheetend-of-year,2,"[303, 425]"
+soma,1,[24]
+source,2,"[408, 530]"
+specific,2,"[337, 459]"
+stability,2,"[152, 299]"
+staff,2,"[414, 536]"
+statistical,2,"[412, 534]"
+steps,1,[80]
+sum,2,"[419, 541]"
+support,2,"[336, 458]"
+sustainable,1,[154]
+swaps10000000,2,"[325, 447]"
+system,2,"[239, 273]"
+system™s,1,[286]
+take,1,[78]
+talf,4,"[334, 371, 456, 493]"
+tary,1,[147]
+tely,1,[192]
+term,2,"[329, 451]"
+time,1,[292]
+total,11,"[19, 39, 197, 211, 248, 373, 375, 406, 495, 497, 528]"
+totals,2,"[420, 542]"
+tr,1,[226]
+trading,1,[168]
+transactions,2,"[264, 272]"
+treasury,7,"[125, 187, 204, 360, 395, 482, 517]"
+treasury200000,2,"[405, 527]"
+trillion,2,"[48, 257]"
+u.s.,6,"[359, 394, 404, 481, 516, 526]"
+unchanged,1,[25]
+value,6,"[21, 42, 58, 199, 213, 250]"
+would,4,"[16, 29, 75, 97]"
+years,3,"[194, 196, 209]"
+¼,1,[171]
