@@ -82,11 +82,13 @@ def search(request):
                     # print(j)
                     with open(j.replace("words_data", "scrap_data",).replace(".csv", ""), encoding="utf8") as final:
                         loc = final.readline()
-                        loc = loc.rstrip('\n').split('/')[-1]
-                    finalres.append([loc, i*10000])
+                    loc = (loc.split('dataset/')[-1]).strip("\n")
+                    print(loc)
+                    if not loc in finalres:
+                        finalres.append(loc)
 
         print(finalres)
-        data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken}
+        data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken, 'lengthofres': len(finalres)}
         return render(request, 'searchpage/searchresult.html', data)
     else:
         return False

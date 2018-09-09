@@ -5,10 +5,12 @@ import csv
 from DocumentSearch import DocumentSearch
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from django.conf import settings
+import os
 
-TEXT_STORE_LOCATION = "scrap_data"
-DATA_STORE_LOCATION = "dataset"
-WORDS_DATA_LOCATION = "words_data"
+TEXT_STORE_LOCATION = os.path.join(settings.FILES_DIR, "scrap_data")
+DATA_STORE_LOCATION = os.path.join(settings.FILES_DIR, "dataset")
+WORDS_DATA_LOCATION = os.path.join(settings.FILES_DIR, "words_data")
 
 punctuations = ['(', ')', ';', ':', '[', ']', ',', '.', "'s", "-", "*"]
 stop_words = stopwords.words('english')

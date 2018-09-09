@@ -36,7 +36,7 @@
                 </button>
             </form>
             <div class="texthead">
-                About 12,10,000 results (0.43 seconds)
+                About {{lengthofres}} results ({{total_time_taken}} seconds)
             </div>
         </div>
 
@@ -52,8 +52,8 @@
                     </div>
                     <div class="col headings">
                         <div class="queryresulthead">
-                            <a href="{% static 'searchpage/dataset/' %}{{r.0}}" target="blank">
-                                {{r.0}}
+                            <a href="{% static 'searchpage/dataset/' %}{{r}}" target="blank">
+                                {{r}}
                             </a>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                         <div class="responsive-wrapper 
                                    responsive-wrapper-wxh-572x612" style="-webkit-overflow-scrolling: touch; overflow: auto;">
 
-                            <iframe src="{% static 'searchpage/dataset/' %}{{results.0.0}}">
+                            <iframe src="{% static 'searchpage/dataset/' %}{{results.0}}">
                                 <p style="font-size: 110%;"><em><strong>ERROR: </strong>
                                         An &#105;frame should be displayed here but your browser version does not support &#105;frames. </em>Please
                                     update your browser to its most recent version and try again.</p>
