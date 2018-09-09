@@ -77,12 +77,13 @@ def search(request):
 
         finalres = []
         for i in sorted(dic.keys(), reverse=True):
-            for j in dic[i]:
-                # print(j)
-                with open(j.replace("words_data", "scrap_data",).replace(".csv", ""), encoding="utf8") as final:
-                    loc = final.readline()
-                    loc = loc.rstrip('\n').split('/')[-1]
-                finalres.append([loc, i*10000])
+            if i > float(0):
+                for j in dic[i]:
+                    # print(j)
+                    with open(j.replace("words_data", "scrap_data",).replace(".csv", ""), encoding="utf8") as final:
+                        loc = final.readline()
+                        loc = loc.rstrip('\n').split('/')[-1]
+                    finalres.append([loc, i*10000])
 
         print(finalres)
         data = {'title': 'search', 'results': finalres, 'total_time_taken': total_time_taken}
